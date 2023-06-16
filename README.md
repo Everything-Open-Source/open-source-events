@@ -21,7 +21,7 @@ How can you make the best out of these events or conferences?
   > Date: 24th January || Mode: Virtual
 
 - [Laracon EU](https://laracon.eu/)
-  > Date: 26th - 27th January || Mode: In-person || Venue: Lisbon, Portugal.
+  > Date: 26th - 27th January || Mode: In-person || Location: Lisbon, Portugal.
 
 </details>
 
@@ -33,19 +33,19 @@ How can you make the best out of these events or conferences?
   > Date: 2nd February || Mode: Virtual
   
 - [The EU Open Source Policy Summit](https://summit.openforumeurope.org/)
-  > Date: 3rd February || Mode: In-person || Venue: Brussels, Belgium.
+  > Date: 3rd February || Mode: In-person || Location: Brussels, Belgium.
 
 - [Flutter Global Summit](https://events.geekle.us/flutter23v2/)
   > Date: 7th - 8th February || Mode: Virtual
 
 - [The Open Metaverse Conference](https://www.openmetaverseconf.com/)
-  > Date: 8th - 9th February || Mode: Hybrid (In-person and Virtual) || Venue: Hudson Loft • 1200 S. Hope Street, Los Angeles, California - USA.
+  > Date: 8th - 9th February || Mode: Hybrid (In-person and Virtual) || Location: Hudson Loft • 1200 S. Hope Street, Los Angeles, California - USA.
 
 - [PyCon Namibia](https://na.pycon.org/)
-  > Date: 21st - 23rd February || Mode: In-person || Venue: Windhoek, Namibia.
+  > Date: 21st - 23rd February || Mode: In-person || Location: Windhoek, Namibia.
   
 - [CityJS London](https://cityjsconf.org/)
-  > Date: 28th - 31st March || Mode: In-person || Venue: London, United Kingdom.
+  > Date: 28th - 31st March || Mode: In-person || Location: London, United Kingdom.
 </details>
 
 
@@ -84,7 +84,9 @@ How can you make the best out of these events or conferences?
 
 <details open>
  <summary><h2> July :sparkles: </h2></summary>
-
+  
+- [Open Source Congress](https://events.linuxfoundation.org/open-source-congress/)
+  > Date: 27th July || Mode: In-person || Location: Geneva, Switzerland.
 
 </details>
 
@@ -109,6 +111,8 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
 
+- [All things Open](https://2023.allthingsopen.org/)
+  > Date: 15th - 17th October || Mode: In-person || Location: Downtown Raleigh, NC, USA.
 
 </details>
 
@@ -127,5 +131,10 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> December :sparkles: </h2></summary>
 
+- [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/)
+  > Date: 5th - 6th December || Mode: In-person || Location: Tokyo, Japan.
+
+- [Open Source Experience](https://www.opensource-experience.com/en/)
+  > Date: 6th - 7th December || Mode: In-person || Location: Paris, France.
 
 </details>
