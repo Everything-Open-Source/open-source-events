@@ -15,7 +15,7 @@ How can you make the best out of these events or conferences?
 
 
 <details open>
- <summary><h2> January </h2></summary>
+ <summary><h2> January :sparkles: </h2></summary>
   
 - [Open Research Webinar](https://opensourceinnovation.eu/)
   > Date: 24th January || Mode: Virtual
@@ -26,28 +26,20 @@ How can you make the best out of these events or conferences?
 </details>
 
 <details open>
- <summary><h2> February </h2></summary>
+ <summary><h2> February :sparkles: </h2></summary>
 
 
 </details>
 
 <details open>
- <summary><h2> March </h2></summary>
+ <summary><h2> March :sparkles: </h2></summary>
 
 
 </details>
 
 
 <details open>
- <summary><h2> April </h2></summary>
-
-
-</details>
-
-
-
-<details open>
- <summary><h2> May </h2></summary>
+ <summary><h2> April :sparkles: </h2></summary>
 
 
 </details>
@@ -55,16 +47,7 @@ How can you make the best out of these events or conferences?
 
 
 <details open>
- <summary><h2> June </h2></summary>
-
-
-</details>
-
-
-
-
-<details open>
- <summary><h2> July </h2></summary>
+ <summary><h2> May :sparkles: </h2></summary>
 
 
 </details>
@@ -72,23 +55,7 @@ How can you make the best out of these events or conferences?
 
 
 <details open>
- <summary><h2> August </h2></summary>
-
-
-</details>
-
-
-
-<details open>
- <summary><h2> September </h2></summary>
-
-
-</details>
-
-
-
-<details open>
- <summary><h2> October </h2></summary>
+ <summary><h2> June :sparkles: </h2></summary>
 
 
 </details>
@@ -97,7 +64,31 @@ How can you make the best out of these events or conferences?
 
 
 <details open>
- <summary><h2> November </h2></summary>
+ <summary><h2> July :sparkles: </h2></summary>
+
+
+</details>
+
+
+
+<details open>
+ <summary><h2> August :sparkles: </h2></summary>
+
+
+</details>
+
+
+
+<details open>
+ <summary><h2> September :sparkles: </h2></summary>
+
+
+</details>
+
+
+
+<details open>
+ <summary><h2> October :sparkles: </h2></summary>
 
 
 </details>
@@ -106,7 +97,16 @@ How can you make the best out of these events or conferences?
 
 
 <details open>
- <summary><h2> December </h2></summary>
+ <summary><h2> November :sparkles: </h2></summary>
+
+
+</details>
+
+
+
+
+<details open>
+ <summary><h2> December :sparkles: </h2></summary>
 
 
 </details>
