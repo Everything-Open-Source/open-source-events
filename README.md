@@ -25,11 +25,30 @@ How can you make the best out of these events or conferences?
 
 </details>
 
+
 <details open>
  <summary><h2> February :sparkles: </h2></summary>
 
+ - [Android Day 2023 on Google Open Source Live](https://opensourcelive.withgoogle.com/events/android-day-2023?utm_source=GOSL&utm_medium=Social&utm_campaign=Android_Day)
+  > Date: 2nd February || Mode: Virtual
+  
+- [The EU Open Source Policy Summit](https://summit.openforumeurope.org/)
+  > Date: 3rd February || Mode: In-person || Venue: Brussels, Belgium.
 
+- [Flutter Global Summit](https://events.geekle.us/flutter23v2/)
+  > Date: 7th - 8th February || Mode: Virtual
+
+- [The Open Metaverse Conference](https://www.openmetaverseconf.com/)
+  > Date: 8th - 9th February || Mode: Hybrid (In-person and Virtual) || Venue: Hudson Loft • 1200 S. Hope Street, Los Angeles, California - USA.
+
+- [PyCon Namibia](https://na.pycon.org/)
+  > Date: 21st - 23rd February || Mode: In-person || Venue: Windhoek, Namibia.
+  
+- [CityJS London](https://cityjsconf.org/)
+  > Date: 28th - 31st March || Mode: In-person || Venue: London, United Kingdom.
 </details>
+
+
 
 <details open>
  <summary><h2> March :sparkles: </h2></summary>
