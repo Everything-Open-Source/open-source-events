@@ -7,9 +7,11 @@ How can you make the best out of these events or conferences?
 - Checkout for the Call for Proposals and submit a talk or workshop.
 - Look for opportunities to contribute to the conference through volunteering. Some examples are;
   - Watching out for and reporting typos found on the conference website
-  - Volunteering on-site or online during the conference
+  - Volunteering on-site or online before or during the conference
   - Offering to coach new speakers before the conference
   - Help market the conference
+- Sponsor an event.
+- Checkout for grants or financial aids offered by the conference.
 
 
 <details open>
