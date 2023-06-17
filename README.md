@@ -84,6 +84,12 @@ How can you make the best out of these events or conferences?
 
 <details open>
  <summary><h2> July :sparkles: </h2></summary>
+
+- [FOSSY 2023](https://2023.fossy.us/)
+  > Date: 13th - 16th July || Mode: In-person || Location: Portland, Oregon, USA.
+  
+- [Akademy 2023](https://akademy-dev.kde.org/2023/)
+  > Date: 15th - 21st July || Mode: Hybrid (In-person and Virtual) || Location: Thessaloniki, Greece.
   
 - [Open Source Congress](https://events.linuxfoundation.org/open-source-congress/)
   > Date: 27th July || Mode: In-person || Location: Geneva, Switzerland.
@@ -114,6 +120,10 @@ How can you make the best out of these events or conferences?
 - [All things Open](https://2023.allthingsopen.org/)
   > Date: 15th - 17th October || Mode: In-person || Location: Downtown Raleigh, NC, USA.
 
+- [EclipseCon 2023](https://www.eclipsecon.org/2023)
+  > Date: 16th - 19th October || Mode: In-person || Location: Ludwigsburg, Germany.
+
+
 </details>
 
 
@@ -122,6 +132,17 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
 
+- [Ubuntu Summit](https://events.canonical.com/event/31/)
+  > Date: 3rd - 5th November || Mode: In-person || Location: Riga, Latvia.
+
+- [Open Source Monitoring Conference](https://osmc.de/)
+  > Date: 7th - 9th November || Mode: In-person || Location: Nuremberg, Germany.
+
+- [Odoo Experience](https://www.odoo.com/event/odoo-experience-2023-3735/page/oxp23-introduction)
+  > Date: 8th - 10th November || Mode: In-person || Location: Brussels Expo, Belguim.
+  
+- [German Open Source Days](https://deutsche-opensource-tage.de/)
+  > Date: 27th - 29th November || Mode: In-person || Location: Berlin, Germany.
 
 </details>
 
