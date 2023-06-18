@@ -76,6 +76,8 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
 
+- [Penpot Fest](https://penpotfest.org/)
+  > Date: 28th - 30th June || Mode: Hybrid (In-person and Virtual) || Location: Barcelona, Spain.
 
 </details>
 
