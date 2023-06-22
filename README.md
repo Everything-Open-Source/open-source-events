@@ -46,12 +46,16 @@ How can you make the best out of these events or conferences?
   
 - [CityJS London](https://cityjsconf.org/)
   > Date: 28th - 31st March || Mode: In-person || Location: London, United Kingdom.
+
 </details>
 
 
 
 <details open>
  <summary><h2> March :sparkles: </h2></summary>
+
+ - [City JS London](https://cityjsconf.org/)
+   > Date: 28th - 31st March || Mode: In-person || Location: London, United Kingdom.
 
 
 </details>
