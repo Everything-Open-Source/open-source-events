@@ -167,7 +167,7 @@ How can you make the best out of these events or conferences?
 - [EclipseCon 2023](https://www.eclipsecon.org/2023)
   > Date: 16th - 19th October || Mode: In-person || Location: Ludwigsburg, Germany.
 
-- [DjangoCon US
+- [DjangoCon US](https://2023.djangocon.us/)
   >Date: October 16-20, 2023 || Mode: In-person || Venue: North Carolina - USA.
   
 
