@@ -11,7 +11,7 @@ How can you make the best out of these events or conferences?
   - Offering to coach new speakers before the conference
   - Help market the conference
 - Sponsor an event.
-- Checkout for grants or financial aids offered by the conference.
+- Checkout for grants or financial aid offered by the conference.
 
 
 <details open>
@@ -29,7 +29,7 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> February :sparkles: </h2></summary>
 
- - [Android Day 2023 on Google Open Source Live](https://opensourcelive.withgoogle.com/events/android-day-2023?utm_source=GOSL&utm_medium=Social&utm_campaign=Android_Day)
+- [Android Day 2023 on Google Open Source Live](https://opensourcelive.withgoogle.com/events/android-day-2023?utm_source=GOSL&utm_medium=Social&utm_campaign=Android_Day)
   > Date: 2nd February || Mode: Virtual
   
 - [The EU Open Source Policy Summit](https://summit.openforumeurope.org/)
@@ -41,6 +41,9 @@ How can you make the best out of these events or conferences?
 - [The Open Metaverse Conference](https://www.openmetaverseconf.com/)
   > Date: 8th - 9th February || Mode: Hybrid (In-person and Virtual) || Location: Hudson Loft • 1200 S. Hope Street, Los Angeles, California - USA.
 
+- [UX360 Research Summit](https://www.ux360summit.com/)
+  >Date: 15th - 16th February || Mode: Virtual
+  
 - [PyCon Namibia](https://na.pycon.org/)
   > Date: 21st - 23rd February || Mode: In-person || Location: Windhoek, Namibia.
   
@@ -54,7 +57,7 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> March :sparkles: </h2></summary>
 
- - [City JS London](https://cityjsconf.org/)
+- [City JS London](https://cityjsconf.org/)
    > Date: 28th - 31st March || Mode: In-person || Location: London, United Kingdom.
 
 
@@ -64,6 +67,18 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
 
+- [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+  >Date: 17th - 21st April || Mode: In-person || Location: Amsterdam, The Netherlands
+
+- [Open Source 101](https://www.allthingsopen.org/open-source-101-2023/)
+  >Date: 18th April || Mode: In-person || Location: Downtown Charlotte, North Carolina - USA.
+
+- [Linux App Summit](https://linuxappsummit.org/)
+  >Date: 21st - 23rd April || Mode: Hybrid (In-person and Virtual) || Location: Brno, Czech Republic
+
+- [PyCon US](https://us.pycon.org/2023/)
+  >Date: 19th April - 27th April || Mode: Hybrid (In-person and Virtual)|| Location: Saltlake City, Utah.
+
 
 </details>
 
@@ -72,6 +87,20 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> May :sparkles: </h2></summary>
 
+- [Write The Docs](https://www.writethedocs.org/conf/portland/2023/)
+  >Date: 7th - 9th May || Mode: In-person || Location: Portland, Oregon - USA
+
+- [Open Source Summit (North America)](https://events.linuxfoundation.org/open-source-summit-north-america/)
+  >Date: 10th - 12th May || Mode: In-person || Location: Vancouver, Canada
+
+- [International PHP Conference](https://phpconference.com/berlin-en/)
+  >Date: 22nd - 26th May || Mode: Hybrid (In-person or Virtual) || Location: Berlin, Germany
+
+- [Red Hat Summit](https://www.redhat.com/en/summit)
+  >Date: 23rd - 25th May || Mode: In-person**|| Location: Boston, Massachusetts - USA.
+
+- [DjangoCon Europe](https://2023.djangocon.eu/)
+  >Date: 29th May - 2nd June || Mode: In-person || Location: Edinburgh, Scotland.
 
 </details>
 
@@ -79,6 +108,15 @@ How can you make the best out of these events or conferences?
 
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
+
+- [OSCA Fest](https://festival.oscafrica.org/)
+  >Date: 15th - 17th June || Mode: In-person || Location: Lagos, Nigeria.
+
+- [FOSS4G](https://www.osgeo.org/events/foss4g-2023/)
+  >Date: 26th June/2nd July || Mode: In-person**|| Location: Prizren, Kosovo
+
+- [Embedded Open Source Summit](https://events.linuxfoundation.org/embedded-open-source-summit/)
+  >Date: 27th - 30th June || Mode: Hybrid (In-person or Virtual) || Location: Prague, Czech Republic or Online
 
 - [Penpot Fest](https://penpotfest.org/)
   > Date: 28th - 30th June || Mode: Hybrid (In-person and Virtual) || Location: Barcelona, Spain.
@@ -128,6 +166,10 @@ How can you make the best out of these events or conferences?
 
 - [EclipseCon 2023](https://www.eclipsecon.org/2023)
   > Date: 16th - 19th October || Mode: In-person || Location: Ludwigsburg, Germany.
+
+- [DjangoCon US
+  >Date: October 16-20, 2023 || Mode: In-person || Venue: North Carolina - USA.
+  
 
 
 </details>
