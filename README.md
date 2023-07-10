@@ -136,10 +136,10 @@ How can you make the best out of these events or conferences?
   > Date: 15th - 21st July || Mode: Hybrid (In-person and Virtual) || Location: Thessaloniki, Greece
   
 - [Afro Python](https://afropython.org/conf2023/)
-  >Date: 22nd July || Mode: In Person || Location: Salvador, Bahia - Brazil.
+  >Date: 22nd July || Mode: In Person || Location: Salvador, Bahia - Brazil
 
 - [Open Source Congress](https://events.linuxfoundation.org/open-source-congress/)
-  > Date: 27th July || Mode: In-person || Location: Geneva, Switzerland.
+  > Date: 27th July || Mode: In-person || Location: Geneva, Switzerland
 
 </details>
 
@@ -149,13 +149,13 @@ How can you make the best out of these events or conferences?
  <summary><h2> August :sparkles: </h2></summary>
 
 - [Open Source Days](https://events.linuxfoundation.org/open-source-days/)
-  >Date: 6th August || Mode: In Person || Location: Los Angeles, California.
+  >Date: 6th August || Mode: In Person || Location: Los Angeles, California
 
 - [EuroSciPy](https://euroscipy.org/2023/)
-  >Date: 14th - 18th August || Mode: In-person || Location: Basel, Switzerland.
-
+  >Date: 14th - 18th August || Mode: In-person || Location: Basel, Switzerland
+  
 - [PyCon Australia](https://2023.pycon.org.au/)
-  >Date: 18th - 22nd August || Mode: In-person || Location: Adelaide, Australia.
+  >Date: 18th - 22nd August || Mode: In-person || Location: Adelaide, Australia
 
   
 </details>
@@ -182,16 +182,27 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
 
-- [All things Open](https://2023.allthingsopen.org/)
-  > Date: 15th - 17th October || Mode: In-person || Location: Downtown Raleigh, NC, USA.
+
+- [PyCon South Africa](https://za.pycon.org/)
+  >Date: 5th - 6th October || Mode: Hybrid | Location: Durban, South Africa
+
+- [CityJS Lagos](https://nigeria.cityjsconf.org/)
+  >Date: 12th - 14th October || Mode: Hybrid || Location: Lagos, Nigeria
+
+- [PyTorch Conference 2023](https://events.linuxfoundation.org/pytorch-conference/)
+  >Date: 16th - 17th October || Mode: In-person || Location: San Francisco, California
+
+- [PyCon APAC](https://2023-apac.pycon.jp/)
+  >Date: 27th - 29th October || Mode: In-person || Location: TOC Ariake Convention Hall, Japan.
+
+- [DjangoCon US](https://2023.djangocon.us/)
+  >Date: 16th - 20th October || Mode: In-person || Location: Durham Convention Center in Durham, NC
+  
+<!---- [All things Open](https://2023.allthingsopen.org/)
+  >Date: 15th - 17th October || Mode: In-person || Location: Downtown Raleigh, NC, USA
 
 - [EclipseCon 2023](https://www.eclipsecon.org/2023)
-  > Date: 16th - 19th October || Mode: In-person || Location: Ludwigsburg, Germany.
-
-- [DjangoCon US
-  >Date: October 16-20, 2023 || Mode: In-person || Venue: North Carolina - USA.
-  
-
+  >Date: 16th - 19th October || Mode: In-person || Location: Ludwigsburg, Germany  --->
 
 </details>
 
@@ -205,13 +216,13 @@ How can you make the best out of these events or conferences?
   > Date: 3rd - 5th November || Mode: In-person || Location: Riga, Latvia.
 
 - [Open Source Monitoring Conference](https://osmc.de/)
-  > Date: 7th - 9th November || Mode: In-person || Location: Nuremberg, Germany.
+  > Date: 7th - 9th November || Mode: In-person || Location: Nuremberg, Germany
 
 - [Odoo Experience](https://www.odoo.com/event/odoo-experience-2023-3735/page/oxp23-introduction)
-  > Date: 8th - 10th November || Mode: In-person || Location: Brussels Expo, Belguim.
+  > Date: 8th - 10th November || Mode: In-person || Location: Brussels Expo, Belgium
   
 - [German Open Source Days](https://deutsche-opensource-tage.de/)
-  > Date: 27th - 29th November || Mode: In-person || Location: Berlin, Germany.
+  > Date: 27th - 29th November || Mode: In-person || Location: Berlin, Germany
 
 </details>
 
