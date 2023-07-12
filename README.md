@@ -196,9 +196,9 @@ How can you make the best out of these events or conferences?
   >Date: 27th - 29th October || Mode: In-person || Location: TOC Ariake Convention Hall, Japan.
 
 - [DjangoCon US](https://2023.djangocon.us/)
-  >Date: 16th - 20th October || Mode: In-person || Location: Durham Convention Center in Durham, NC
-  
-<!---- [All things Open](https://2023.allthingsopen.org/)
+  >Date: October 16-20, 2023 || Mode: In-person || Venue: North Carolina - USA.
+
+- [All things Open](https://2023.allthingsopen.org/)
   >Date: 15th - 17th October || Mode: In-person || Location: Downtown Raleigh, NC, USA
 
 - [EclipseCon 2023](https://www.eclipsecon.org/2023)
