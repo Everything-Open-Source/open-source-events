@@ -1,5 +1,5 @@
 
-# <p align="center"> Open Source Events in 2023 :sparkles: </p>
+# <p align="center"> Open Source Events to attend in 2023 :sparkles: </p>
 
 This is a collection of Open Source events or conferences to look out for in 2023.
 
