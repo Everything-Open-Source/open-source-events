@@ -171,6 +171,9 @@ How can you make the best out of these events or conferences?
 - [PyData Amsterdam](https://amsterdam.pydata.org/)
   >Date: 14th - 16th September || Mode: In-person || Location: Amsterdam, The Netherlands.
 
+-[Pycon CZ Prague](https://cz.pycon.org/2023/)
+>Date: 15th - 17th September || Mode: In-person || Location:Prague, Czech Republic.
+
 - [PyCon Uganda](https://ug.pycon.org/)
   >Date: 21st - 23rd September || Mode: In-person || Location: Kampala, Uganda.
 
