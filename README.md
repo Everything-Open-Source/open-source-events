@@ -47,12 +47,17 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> May :sparkles: </h2></summary>
 
+- [Kafka Summit Bangalore](https://www.kafka-summit.org/events/kafka-summit-bangalore-2024/about)
+   > Date: 2nd May || Mode: In-person || Location: Bangalore, India.
+
 </details>
 
 
 
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
+- [Community Over Code Europe](https://apachecon-eu.staged.apache.org/)
+   > Date: 3rd - 5th June || Mode: In-person || Location: Bratislava, Slovakia
 
 </details>
 
