@@ -56,6 +56,7 @@ How can you make the best out of these events or conferences?
 
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
+  
 - [Community Over Code Europe](https://apachecon-eu.staged.apache.org/)
    > Date: 3rd - 5th June || Mode: In-person || Location: Bratislava, Slovakia
 
