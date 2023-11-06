@@ -1,7 +1,7 @@
 
 # <p align="center"> Open Source Events to attend in 2024 :sparkles: </p>
 
-This is a collection of Open Source events or conferences to look out for in 2023.
+This is a collection of Open Source events or conferences to look out for in 2024.
 
 How can you make the best out of these events or conferences?
 - Checkout for the Call for Proposals and submit a talk or workshop.
@@ -38,6 +38,9 @@ How can you make the best out of these events or conferences?
 
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
+
+ - [Everything Open](https://2024.everythingopen.au/)
+   > Date: 16th - 18th April || Mode: In-person || Location: Gladstone, Australia.
 
 
 </details>
