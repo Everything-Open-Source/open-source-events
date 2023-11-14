@@ -23,6 +23,9 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> February :sparkles: </h2></summary>
 
+- [State of OpenCon](https://stateofopencon.com/)
+   > Date: 6th - 7th February || Mode: In-person || Location: London, United Kingdom.
+
 </details>
 
 
@@ -42,6 +45,8 @@ How can you make the best out of these events or conferences?
  - [Everything Open](https://2024.everythingopen.au/)
    > Date: 16th - 18th April || Mode: In-person || Location: Gladstone, Australia.
 
+ - [Open Source Summit - North America](https://events.linuxfoundation.org/open-source-summit-north-america/)
+   > Date: 16th - 18th April || Mode: In-person || Location: Seattle, Washington - USA.
 
 </details>
 
@@ -52,6 +57,10 @@ How can you make the best out of these events or conferences?
 
 - [Kafka Summit Bangalore](https://www.kafka-summit.org/events/kafka-summit-bangalore-2024/about)
    > Date: 2nd May || Mode: In-person || Location: Bangalore, India.
+
+- [PyCon US](https://us.pycon.org/2024/)
+   > Date: 15th - 23rd May || Mode: In-person || Location: Pittsburgh, Pennsylvania - USA.
+
 
 </details>
 
