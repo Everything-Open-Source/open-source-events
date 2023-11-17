@@ -102,6 +102,9 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> July :sparkles: </h2></summary>
 
+ - [FlutterCon](https://fluttercon.dev/)
+   > Date: 3rd - 5th July || Mode: In-person || Location: Berlin, Germany
+
 </details>
 
 
