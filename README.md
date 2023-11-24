@@ -94,6 +94,9 @@ How can you make the best out of these events or conferences?
 - [Community Over Code Europe](https://apachecon-eu.staged.apache.org/)
    > Date: 3rd - 5th June || Mode: In-person || Location: Bratislava, Slovakia
 
+- [DevConf](https://www.devconf.info/)
+   > Date: 13th - 15th June || Mode: In-person || Location: Brno, Czechia
+
 </details>
 
 
