@@ -26,6 +26,9 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> February :sparkles: </h2></summary>
 
+- [CHAOSScon Europe](https://chaoss.community/chaosscon-2024-eu/)
+   > Date: 1st February || Mode: In-person || Location: Brussels, Belgium.
+   
 - [EU Open Source Policy Summit](https://summit.openforumeurope.org/)
    > Date: 2nd February || Mode: Hybrid || Location: Brussels, Belgium.
    
@@ -47,6 +50,9 @@ How can you make the best out of these events or conferences?
 - [CCOSS + KCD Guadalajara](https://ccoss.org/)
   > Date: 23rd and 24th February || Mode: In-person || Location: Guadalajara - Mexico.
 
+- [SANS Open-Source (OSINT) Summit & Training](https://www.sans.org/cyber-security-training-events/osint-summit-2024/)
+  > Date: 29th February - 7th March || Mode: Hybrid || Location: Arlington, VA - USA and Virtual.
+
 </details>
 
 
@@ -57,11 +63,17 @@ How can you make the best out of these events or conferences?
 - [FOSS Backstage 2024](https://24.foss-backstage.de/)
    > Date: 4th - 5th March || Mode: Hybrid || Location: Berlin, Germany.
 
+- [PyCon Namibia](https://na.pycon.org/)
+   > Date: 4th - 7th March || Mode: In-person || Location: Windhoek, Namibia.
+
 - [ORT Community Days](https://github.com/oss-review-toolkit/ort/wiki/ORT-Community-Days-2024)
    > Date: 6th - 7th March || Mode: In-person || Location: Berlin, Germany.
    
 - [Open Source Day](https://2024.osday.dev/)
    > Date: 7th - 8th March || Mode: In-person || Location: Florence, Italy.
+
+- [Open Confidential Computing Conference](https://www.centraleyes.com/security-events/open-confidential-computing-conference-oc3-2024/)
+   > Date: 13th March || Mode: In-person || Location: Bochum, Germany.
 
 - [Scale21x](https://www.socallinuxexpo.org/scale/21x)
    > Date: 16th - 17th March || Mode: In-person || Location: Pasadena, California - USA.
@@ -100,6 +112,9 @@ How can you make the best out of these events or conferences?
 - [Kafka Summit Bangalore](https://www.kafka-summit.org/events/kafka-summit-bangalore-2024/about)
    > Date: 2nd May || Mode: In-person || Location: Bangalore, India.
 
+- [Red Hat Summit](https://www.redhat.com/en/summit)
+   > Date: 6th - 9th May || Mode: In-person || Location: Denver, Colorado - USA.
+
 - [PyCon US](https://us.pycon.org/2024/)
    > Date: 15th - 23rd May || Mode: In-person || Location: Pittsburgh, Pennsylvania - USA.
 
@@ -133,8 +148,14 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> July :sparkles: </h2></summary>
 
+ - [Open edX Conference](https://openedx.org/blog/2024-open-edx-conference-announcement/#:~:text=We%20are%20excited%20to%20announce,here%20to%20secure%20your%20seat!)
+   > Date: 2nd - 5th July || Mode: In-person || Location: Stellenbosch University, Capte Town - South Africa.
+
  - [FlutterCon](https://fluttercon.dev/)
-   > Date: 3rd - 5th July || Mode: In-person || Location: Berlin, Germany
+   > Date: 3rd - 5th July || Mode: In-person || Location: Berlin, Germany.
+
+ - [GUADEC](https://events.gnome.org/event/209/)
+   > Date: 19th - 24th July || Mode: In-person || Location: Denver, USA.
 
 </details>
 
