@@ -19,8 +19,6 @@ How can you make the best out of these events or conferences?
 
 - [Automotive Grade Linux](https://events.linuxfoundation.org/agl-at-ces/#:~:text=Automotive%20Grade%20Linux%20(AGL)%20is,AGL%20ecosystem%20in%20booth%204765.)
    > Date: 9th - 12th January || Mode: In-person || Location: Las Vegas, Nevada - USA.
-   
-
 
 </details>
 
@@ -28,6 +26,9 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> February :sparkles: </h2></summary>
 
+- [EU Open Source Policy Summit](https://summit.openforumeurope.org/)
+   > Date: 2nd February || Mode: Hybrid || Location: Brussels, Belgium.
+   
 - [FOSDEM](https://fosdem.org/2024/)
    > Date: 3rd - 4th February || Mode: In-person || Location: Brussels, Belgium.
    
@@ -36,6 +37,15 @@ How can you make the best out of these events or conferences?
 
 - [IEEE Serious Open Source](https://events.bizzabo.com/549239)
    > Date: 20th - 21st February || Mode: In-person || Location: Mountain View, California - USA.
+
+- [Open Source Forum - hosted by Academy Software Foundation](https://events.linuxfoundation.org/aswf-open-source-forum/)
+  > Date: 22nd February || Mode: Hybrid || Location: Los Angeles, California - USA and Virtual.
+
+- [Open Source AI Definition Town Hall](https://opensource.org/events/open-source-ai-definition-town-hall-4/)
+  > Date: 23rd February || Mode: Virtual 
+  
+- [CCOSS + KCD Guadalajara](https://ccoss.org/)
+  > Date: 23rd and 24th February || Mode: In-person || Location: Guadalajara - Mexico.
 
 </details>
 
@@ -46,9 +56,15 @@ How can you make the best out of these events or conferences?
 
 - [FOSS Backstage 2024](https://24.foss-backstage.de/)
    > Date: 4th - 5th March || Mode: Hybrid || Location: Berlin, Germany.
+
+- [ORT Community Days](https://github.com/oss-review-toolkit/ort/wiki/ORT-Community-Days-2024)
+   > Date: 6th - 7th March || Mode: In-person || Location: Berlin, Germany.
    
 - [Open Source Day](https://2024.osday.dev/)
    > Date: 7th - 8th March || Mode: In-person || Location: Florence, Italy.
+
+- [Scale21x](https://www.socallinuxexpo.org/scale/21x)
+   > Date: 16th - 17th March || Mode: In-person || Location: Pasadena, California - USA.
    
 - [Kafka Summit London](https://www.kafka-summit.org/events/kafka-summit-london-2024/about)
    > Date: 19th - 20th March || Mode: In-person || Location: London, United Kingdom.
@@ -67,6 +83,12 @@ How can you make the best out of these events or conferences?
 
  - [Embedded Open Source Summit](https://events.linuxfoundation.org/embedded-open-source-summit/)
    > Date: 16th - 18th April || Mode: In-person || Location: Seattle, Washington - USA.
+
+ - [The Free Software Legal and Licensing Workshop 2024](https://fsfe.org/activities/ln/llw-conf.en.html)
+   > Date: 17th - 19th April || Mode: In-person || Location: Gothenburg, Sweden.
+  
+ - [Open Source Camp on Kubernetes](https://opensourcecamp.de/)
+   > Date: 18th April || Mode: In-person || Location: Nuremberg, Germany.
 
 </details>
 
@@ -94,6 +116,12 @@ How can you make the best out of these events or conferences?
 - [Community Over Code Europe](https://apachecon-eu.staged.apache.org/)
    > Date: 3rd - 5th June || Mode: In-person || Location: Bratislava, Slovakia
 
+- [Upstream 2024](https://upstream.live/)
+   > Date: 5th June || Mode: Virtual
+
+- [Berlin Buzzwords](https://2024.berlinbuzzwords.de/)
+   > Date: 9th - 11th June || Mode: In-person || Location: Berlin, Germany.
+   
 - [DevConf](https://www.devconf.info/)
    > Date: 13th - 15th June || Mode: In-person || Location: Brno, Czechia
 
@@ -123,6 +151,9 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> September :sparkles: </h2></summary>
 
+ - [Open Source Summit EU](https://events.linuxfoundation.org/open-source-summit-europe/)
+   > Date: 16th - 18th September || Mode: In-person || Location: Vienna, Austria.
+ 
 </details>
 
 
@@ -130,6 +161,15 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
 
+ - [Community Over Code Denver](https://communityovercode.org/#:~:text=Denver%2C%20Colorado%2C,Tech%2C%20and%20many%20other%20topics.)
+   > Date: 7th - 10th October || Mode: In-person || Location: Denver, Colorado - USA.
+
+ - [Open Code Experience](https://opencode-x.org/)
+   > Date: 22nd - 24th October || Mode: In-person || Location: Mainz, Germany.
+
+ - [All Things Open](https://2024.allthingsopen.org/)
+   > Date: 27th - 29th October || Mode: In-person || Location: Raleigh Convention Center, North Carolina - USA.
+   
 </details>
 
 
