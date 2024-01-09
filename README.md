@@ -84,11 +84,17 @@ How can you make the best out of these events or conferences?
 - [Kafka Summit London](https://www.kafka-summit.org/events/kafka-summit-london-2024/about)
    > Date: 19th - 20th March || Mode: In-person || Location: London, United Kingdom.
 
+- [KubeCon|CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+   > Date: 19th - 22nd March || Mode: In-person || Location: Paris Expo Porte De Versailles, France.
+
 </details>
 
 
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
+  
+ - [CityJS London](https://london.cityjsconf.org/)
+   > Date: 3rd - 5th April || Mode: In-person || Location: Royal Geographical Society, London.
 
  - [Everything Open](https://2024.everythingopen.au/)
    > Date: 16th - 18th April || Mode: In-person || Location: Gladstone, Australia.
@@ -137,6 +143,9 @@ How can you make the best out of these events or conferences?
 - [Upstream 2024](https://upstream.live/)
    > Date: 5th June || Mode: Virtual
 
+- [CityJS Athens](https://greece.cityjsconf.org/)
+   > Date: 6th - 8th June || Mode: Hybrid
+
 - [Berlin Buzzwords](https://2024.berlinbuzzwords.de/)
    > Date: 9th - 11th June || Mode: In-person || Location: Berlin, Germany.
    
@@ -159,6 +168,9 @@ How can you make the best out of these events or conferences?
 
  - [GUADEC](https://events.gnome.org/event/209/)
    > Date: 19th - 24th July || Mode: In-person || Location: Denver, USA.
+
+ - [CityJS Singapore](https://singapore.cityjsconf.org/)
+   > Date: 24th - 26th July || Mode: In-person || Location: Lifelong Learning Institute.
 
 </details>
 
