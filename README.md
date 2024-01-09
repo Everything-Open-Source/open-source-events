@@ -60,6 +60,9 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> March :sparkles: </h2></summary>
 
+- [Open Data Day](https://opendataday.org/)
+   > Date: 2nd - 8th March || Mode: In-person || Location: All over the world
+
 - [FOSS Backstage 2024](https://24.foss-backstage.de/)
    > Date: 4th - 5th March || Mode: Hybrid || Location: Berlin, Germany.
 
