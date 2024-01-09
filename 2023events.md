@@ -98,8 +98,8 @@ How can you make the best out of these events or conferences?
 - [Red Hat Summit](https://www.redhat.com/en/summit)
   >Date: 23rd - 25th May || Mode: In-person || Location: Boston, Massachusetts - USA.
 
-- [DjangoCon Europe](https://2023.djangocon.eu/)
-  >Date: 29th May - 2nd June || Mode: In-person || Location: Edinburgh, Scotland.
+<!-- - [DjangoCon Europe](https://2023.djangocon.eu/)
+  >Date: 29th May - 2nd June || Mode: In-person || Location: Edinburgh, Scotland. -->
 
 </details>
 
@@ -107,6 +107,9 @@ How can you make the best out of these events or conferences?
 
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
+ 
+ - [DjangoCon Europe](https://2024.djangocon.eu/)
+  >Date: 5th - 9th June || Mode: Hybrid (In-person or Virtual) || Location: Vigo, Spain..
 
 - [OSCA Fest](https://festival.oscafrica.org/)
   >Date: 15th - 17th June || Mode: In-person || Location: Lagos, Nigeria..
