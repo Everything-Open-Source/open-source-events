@@ -86,6 +86,11 @@ How can you make the best out of these events or conferences?
 
 - [KubeCon|CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
    > Date: 19th - 22nd March || Mode: In-person || Location: Paris Expo Porte De Versailles, France.
+   
+- [Year of Open Science](https://www.challenge.gov/?challenge=ostp-year-of-open-science-recognition-challenge)
+   > Date: 21st - 22nd March || Mode: Virtual
+
+
 
 </details>
 
