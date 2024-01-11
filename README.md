@@ -132,6 +132,9 @@ How can you make the best out of these events or conferences?
 - [PyCon US](https://us.pycon.org/2024/)
    > Date: 15th - 23rd May || Mode: In-person || Location: Pittsburgh, Pennsylvania - USA.
 
+- [PyCon Italia](https://2024.pycon.it/en)
+   > Date: 22nd - 25th May || Mode: In-person || Location: Florence, Italy.
+
 - [JDKon 2024](https://jdkon.io/)
    > Date: 23rd - 24th May || Mode: Online
 
