@@ -66,6 +66,9 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
 
+- [Fossasia Summit](https://eventyay.com/e/55d2a466)
+  >Date: 8th April - 10 April || Mode: In-person/virtual || Location: Ha Noi, Viet Nam.
+
 - [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
   >Date: 17th - 21st April || Mode: In-person || Location: Amsterdam, The Netherlands.
 
