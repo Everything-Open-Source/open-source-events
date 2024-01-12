@@ -38,7 +38,7 @@ How can you make the best out of these events or conferences?
 - [State of OpenCon](https://stateofopencon.com/)
    > Date: 6th - 7th February || Mode: In-person || Location: London, United Kingdom.
   
-- [Mautic Conference India]([https://mauticon.mautic.org/en/mauticon-india-2024/](https://mauticon.mautic.org/en/mauticon-india-2024/))
+- [Mautic Conference India](https://mauticon.mautic.org/en/mauticon-india-2024/)
    > Date: 17th - 18th February || Mode: In-person || Location: Pune, India.
 
 - [IEEE Serious Open Source](https://events.bizzabo.com/549239)
