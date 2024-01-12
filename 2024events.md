@@ -15,7 +15,7 @@ How can you make the best out of these events or conferences?
 - Checkout for grants or financial aid offered by the conference.
 
 <details open>
- <summary><h2> Janauary :sparkles: </h2></summary>
+ <summary><h2> January :sparkles: </h2></summary>
   
 - [The Creative Freedom Summit](https://creativefreedomsummit.com/)
   > Date: 23th - 25th January || Mode: Virtualin.
