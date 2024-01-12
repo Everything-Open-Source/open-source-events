@@ -16,7 +16,11 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> January :sparkles: </h2></summary>
   
+- [The Creative Freedom Summit](https://creativefreedomsummit.com/)
+  > Date: 23th - 25th January || Mode: Virtual
+
 - [Open Research Webinar](https://opensourceinnovation.eu/)
+
   > Date: 24th January || Mode: Virtual
 
 - [Laracon EU](https://laracon.eu/)
