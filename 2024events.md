@@ -23,6 +23,14 @@ How can you make the best out of these events or conferences?
 </details>
 
 <details open>
+ <summary><h2> Janauary :sparkles: </h2></summary>
+  
+- [Vue.js Nation Conference](https://vuejsnation.com/?__s=9elpcov009tggzx3upa9&utm_source=drip&utm_medium=email&utm_campaign=%F0%9F%8C%9F+Introducing+our+LARGEST+lineup+ever!+%F0%9F%A4%AF)
+  > Date: 24th - 25th January || Mode: Virtualin.
+
+</details>
+
+<details open>
  <summary><h2> June :sparkles: </h2></summary>
 
 - [DjangoCon Europe](https://2024.djangocon.eu/)
