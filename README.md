@@ -101,6 +101,9 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
   
+ - [PyCon Lithuania](https://pycon.lt/2024)
+   > Date: 2nd - 6th April || Mode: In-person || Location: Lithuania.
+  
  - [CityJS London](https://london.cityjsconf.org/)
    > Date: 3rd - 5th April || Mode: In-person || Location: Royal Geographical Society, London.
 
