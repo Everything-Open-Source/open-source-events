@@ -168,6 +168,9 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> July :sparkles: </h2></summary>
 
+ - [FOSS4G](https://2024.europe.foss4g.org/)
+   > Date: 1st - 7th July || Mode: In-person || Location: Tartu, Estonia.
+
  - [Open edX Conference](https://openedx.org/blog/2024-open-edx-conference-announcement/#:~:text=We%20are%20excited%20to%20announce,here%20to%20secure%20your%20seat!)
    > Date: 2nd - 5th July || Mode: In-person || Location: Stellenbosch University, Capte Town - South Africa.
 
