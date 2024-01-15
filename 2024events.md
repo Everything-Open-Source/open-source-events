@@ -23,6 +23,14 @@ How can you make the best out of these events or conferences?
 </details>
 
 <details open>
+ <summary><h2> February :sparkles: </h2></summary>
+  
+- [Mautic Conference India](https://mauticon.mautic.org)
+  > Date: 17th - 18th February 2024 || Mode: In person || Location: Pune, India.
+
+</details>
+
+<details open>
  <summary><h2> June :sparkles: </h2></summary>
 
 - [DjangoCon Europe](https://2024.djangocon.eu/)
