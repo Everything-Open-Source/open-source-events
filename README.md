@@ -132,6 +132,9 @@ How can you make the best out of these events or conferences?
 - [Kafka Summit Bangalore](https://www.kafka-summit.org/events/kafka-summit-bangalore-2024/about)
    > Date: 2nd May || Mode: In-person || Location: Bangalore, India.
 
+- [Open Hardware Summit](https://2024.oshwa.org/)
+   > Date: 3rd and 4th May || Mode: In-person || Concordia University and lespacemaker, Montreal - Canada.
+
 - [Red Hat Summit](https://www.redhat.com/en/summit)
    > Date: 6th - 9th May || Mode: In-person || Location: Denver, Colorado - USA.
 
