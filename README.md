@@ -122,6 +122,9 @@ How can you make the best out of these events or conferences?
  - [Open Source Camp on Kubernetes](https://opensourcecamp.de/)
    > Date: 18th April || Mode: In-person || Location: Nuremberg, Germany.
 
+ - [FedGeoDay](https://www.fedgeo.us/)
+   > Date: 30th April || Mode: In-person || Location: Washington DC, USA.
+
 </details>
 
 
