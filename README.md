@@ -166,6 +166,9 @@ How can you make the best out of these events or conferences?
 - [CityJS Athens](https://greece.cityjsconf.org/)
    > Date: 6th - 8th June || Mode: Hybrid
 
+- [State of the Map US](https://openstreetmap.us/events/state-of-the-map-us/)
+   > Date: 6th - 8th June || Mode: In-person || Location: Salt Lake City, Utah - USA.
+
 - [Berlin Buzzwords](https://2024.berlinbuzzwords.de/)
    > Date: 9th - 11th June || Mode: In-person || Location: Berlin, Germany.
    
