@@ -20,6 +20,9 @@ How can you make the best out of these events or conferences?
 - [Automotive Grade Linux](https://events.linuxfoundation.org/agl-at-ces/#:~:text=Automotive%20Grade%20Linux%20(AGL)%20is,AGL%20ecosystem%20in%20booth%204765.)
    > Date: 9th - 12th January || Mode: In-person || Location: Las Vegas, Nevada - USA.
 
+- [Open Source Conference 2024 Osaka](https://event.ospn.jp/osc2024-osaka/)
+   > Date: 27th January || Mode: In-person || Location: Osaka Industrial Creation Museum, Japan.
+
 </details>
 
 
@@ -215,6 +218,9 @@ How can you make the best out of these events or conferences?
 
  - [Open Source Summit EU](https://events.linuxfoundation.org/open-source-summit-europe/)
    > Date: 16th - 18th September || Mode: In-person || Location: Vienna, Austria.
+
+ - [DjangoCon US](https://2024.djangocon.us/)
+   > Date: 22nd - 27th September || Mode: In-person || Location: Durham, North Carolina - USA.
  
 </details>
 
