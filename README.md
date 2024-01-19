@@ -125,6 +125,9 @@ How can you make the best out of these events or conferences?
  - [Open Source Camp on Kubernetes](https://opensourcecamp.de/)
    > Date: 18th April || Mode: In-person || Location: Nuremberg, Germany.
 
+ - [LinuxFest Northwest](https://linuxfestnorthwest.org/)
+   > Date: 26th - 28th April || Mode: In-person || Location: Bellingham Technical College, Washington, USA.
+
  - [FedGeoDay](https://www.fedgeo.us/)
    > Date: 30th April || Mode: In-person || Location: Washington DC, USA.
 
