@@ -211,6 +211,8 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> August :sparkles: </h2></summary>
 
+- [posit::conf(2024)](https://posit.co/conference)
+   > Date: 12th - 14th August || Mode: Hybrid || Location: Seattle, Washington - USA.
   
 </details>
 
