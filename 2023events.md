@@ -45,6 +45,8 @@ How can you make the best out of these events or conferences?
   
 - [PyCon Namibia](https://na.pycon.org/)
   > Date: 21st - 23rd February || Mode: In-person || Location: Windhoek, Namibia.
+- [Academy Software Foundation Forum(ASWF) Open Source Forum](https://dev.events/conferences/aswf-open-source-forum-united-states-2-2024)
+  > Date: 22nd February 2024 || Mode: Hybrid (In-person and Virtual) || Location: Los Angeles, California - USA. 
   
 - [CityJS London](https://cityjsconf.org/)
   > Date: 28th - 31st March || Mode: In-person || Location: London, United Kingdom.
