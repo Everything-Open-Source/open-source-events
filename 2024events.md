@@ -23,6 +23,14 @@ How can you make the best out of these events or conferences?
 </details>
 
 <details open>
+ <summary><h2> February :sparkles: </h2></summary>
+  
+- [FOSDEM](https://fosdem.org/2024/)
+  > Date: 3d - 4th February || Mode: In-person || Location: Brussels, Belgium.
+
+</details>
+
+<details open>
  <summary><h2> June :sparkles: </h2></summary>
 
 - [DjangoCon Europe](https://2024.djangocon.eu/)
