@@ -20,8 +20,11 @@ How can you make the best out of these events or conferences?
 - [Automotive Grade Linux](https://events.linuxfoundation.org/agl-at-ces/#:~:text=Automotive%20Grade%20Linux%20(AGL)%20is,AGL%20ecosystem%20in%20booth%204765.)
    > Date: 9th - 12th January || Mode: In-person || Location: Las Vegas, Nevada - USA.
 
+- [The Creative Freedom Summit](https://creativefreedomsummit.com/)
+   > Date: 23rd - 25th January || Mode: Virtual
+
 - [Vue.js Nation Conference](https://vuejsnation.com/s=9elpcov009tggzx3upa9&utm_source=drip&utm_medium=email&utm_campaign=%F0%9F%8C%9F+Introducing+our+LARGEST+lineup+ever!+%F0%9F%A4%AF)
-  > Date: 24th - 25th January || Mode: Virtualin.
+  > Date: 24th - 25th January || Mode: Virtual
   
 - [Open Source Conference 2024 Osaka](https://event.ospn.jp/osc2024-osaka/)
    > Date: 27th January || Mode: In-person || Location: Osaka Industrial Creation Museum, Japan.
