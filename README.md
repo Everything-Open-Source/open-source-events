@@ -44,6 +44,9 @@ How can you make the best out of these events or conferences?
 - [Open Source Forum - hosted by Academy Software Foundation](https://events.linuxfoundation.org/aswf-open-source-forum/)
   > Date: 22nd February || Mode: Hybrid || Location: Los Angeles, California - USA and Virtual.
 
+- [Academy Software Foundation Forum(ASWF) Open Source Forum.00](https://dev.events/conferences/aswf-open-source-forum-united-states-2-2024)
+  > Date: 22nd February 2024 || Mode: Hybrid (In-person and Virtual) || Location: Los Angeles, California - USA. 
+
 - [Open Source AI Definition Town Hall](https://opensource.org/events/open-source-ai-definition-town-hall-4/)
   > Date: 23rd February || Mode: Virtual 
   
