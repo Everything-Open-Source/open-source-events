@@ -204,6 +204,9 @@ How can you make the best out of these events or conferences?
  - [FlutterCon](https://fluttercon.dev/)
    > Date: 3rd - 5th July || Mode: In-person || Location: Berlin, Germany.
 
+ - [JuliaCon](https://juliacon.org/2024/)
+   > Date: 9th - 13th July || Mode: In-person || Location: Eindhoven, Netherlands.
+
  - [GUADEC](https://events.gnome.org/event/209/)
    > Date: 19th - 24th July || Mode: In-person || Location: Denver, USA.
 
