@@ -96,6 +96,9 @@ How can you make the best out of these events or conferences?
 - [Kafka Summit London](https://www.kafka-summit.org/events/kafka-summit-london-2024/about)
    > Date: 19th - 20th March || Mode: In-person || Location: London, United Kingdom.
 
+- [De{Code}2024](https://events.wpengine.com/event/f5972890-64b0-4934-9b39-2e704bf34725/websitePage:7b184ebe-3411-489f-bc0c-f76fe90d1ce5?_hsenc=p2ANqtz-_RLWEn4udTNgGeRA_jvzgIHAmDlYf8K1lz753u0dOBZbxoekFAJgZsiTKmQ_GQC-8U-CEmFM92sEXd95Hk7oV1rhCxyg&_hsmi=292110849&utm_campaign=24q1_decode&utm_medium=email&utm_source=hubspot)
+   > Date: 19th - 20th March || Mode: Virtual
+   
 - [KubeCon|CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
    > Date: 19th - 22nd March || Mode: In-person || Location: Paris Expo Porte De Versailles, France.
    
