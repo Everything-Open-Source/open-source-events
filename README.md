@@ -119,6 +119,12 @@ How can you make the best out of these events or conferences?
  - [CityJS London](https://london.cityjsconf.org/)
    > Date: 3rd - 5th April || Mode: In-person || Location: Royal Geographical Society, London.
 
+ - [GitOpsCon North America](https://events.linuxfoundation.org/gitopscon-north-america/?utm_medium=email&_hsmi=292413837&_hsenc=p2ANqtz--liP08ivv7N5BsxpaCq80qEjs3DP87fQoKoMe6rooHAj7617ZOmqmjs1C8oCgOxxSDpVVsyw-hxpT0UffvQW9KzDY9ZA&utm_content=292413837&utm_source=hs_email)
+   > Date: 15th April || Mode: In-person || Location: Seattle, Washington.
+
+ - [SOSS Community Day](https://events.linuxfoundation.org/soss-community-day-north-america/?utm_medium=email&_hsmi=292413837&_hsenc=p2ANqtz-8gKoXqjM0lXS2xPzd5ep6Zh488gCamYo8qFi3P1Xbn2tGuoOeosSW4QzX4ETv9h2wpzTKvQMs7cDWjpCv8sBv69cx4Tg&utm_content=292413837&utm_source=hs_email)
+   > Date: 15th April || Mode: In-person || Location: Seattle, Washington.
+
  - [Everything Open](https://2024.everythingopen.au/)
    > Date: 16th - 18th April || Mode: In-person || Location: Gladstone, Australia.
 
@@ -155,6 +161,9 @@ How can you make the best out of these events or conferences?
 
 - [Red Hat Summit](https://www.redhat.com/en/summit)
    > Date: 6th - 9th May || Mode: In-person || Location: Denver, Colorado - USA.
+
+- [Linux Storage|Filesystem|MM & BPF Summit](https://www.redhat.com/en/summit)
+   > Date: 13th - 15th May || Mode: In-person || Location: Salt Lake City, UTAH - USA.
 
 - [PyCon US](https://us.pycon.org/2024/)
    > Date: 15th - 23rd May || Mode: In-person || Location: Pittsburgh, Pennsylvania - USA.
