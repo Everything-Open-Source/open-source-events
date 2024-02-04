@@ -205,6 +205,12 @@ How can you make the best out of these events or conferences?
 - [DevConf](https://www.devconf.info/)
    > Date: 13th - 15th June || Mode: In-person || Location: Brno, Czechia
 
+- [AI_dev: Open Source GenAI & ML Summit Europe](https://events.linuxfoundation.org/ai-dev-europe/?utm_medium=email&_hsmi=292413837&_hsenc=p2ANqtz-87vb8r4tua5x5NxZoAcdjybbdckex2ES7KdaMdDRt55BZy-Cyv3K_rx3LEIYDBSAEUqGHStZ0Cd2_Wcu8cli1RiY3Jsw&utm_content=292413837&utm_source=hs_email)
+   > Date: 19th - 20th June || Mode: In-person || Location: Paris, France.
+
+- [WASMCON](https://events.linuxfoundation.org/wasmcon/?utm_medium=email&_hsmi=292413837&_hsenc=p2ANqtz-8J_6YnR8iCnyN5QirkOJ0U45Ea_1l2vwlketo1vN6l9GU0PTFl_xlzTkZDe3DQi8m608zSSWoY8Q3WLgviRpiklN-B5A&utm_content=292413837&utm_source=hs_email)
+   > Date: 24th - 25th June || Mode: In-person || Location: Seattle, Washington - USA.
+
 </details>
 
 
@@ -253,6 +259,9 @@ How can you make the best out of these events or conferences?
 
  - [DjangoCon US](https://2024.djangocon.us/)
    > Date: 22nd - 27th September || Mode: In-person || Location: Durham, North Carolina - USA.
+
+ - [Open Source in Finance Forum](https://events.linuxfoundation.org/open-source-finance-forum-new-york/)
+   > Date: 22nd - 27th September || Mode: In-person || Location: New York - USA.
  
 </details>
 
