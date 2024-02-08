@@ -199,6 +199,9 @@ How can you make the best out of these events or conferences?
 - [State of the Map US](https://openstreetmap.us/events/state-of-the-map-us/)
    > Date: 6th - 8th June || Mode: In-person || Location: Salt Lake City, Utah - USA.
 
+- [PyCon Colombia](https://2024.pycon.co/)
+   > Date: 7th - 9th June || Mode: In-person || Location: Medellín, Colombia.
+
 - [Berlin Buzzwords](https://2024.berlinbuzzwords.de/)
    > Date: 9th - 11th June || Mode: In-person || Location: Berlin, Germany.
    
