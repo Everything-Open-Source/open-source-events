@@ -240,6 +240,10 @@ How can you make the best out of these events or conferences?
  - [CityJS Singapore](https://singapore.cityjsconf.org/)
    > Date: 24th - 26th July || Mode: In-person || Location: Lifelong Learning Institute.
 
+- [How.Camp 2024 FOSS](https://how.camp/)
+   > Date: 27th July || Mode: In-person || Location: Gabrovo, Bulgaria.
+
+
 </details>
 
 
