@@ -13,6 +13,8 @@ How can you make the best out of these events or conferences?
 - Sponsor an event.
 - Checkout for grants or financial aid offered by the conference.
 
+If you are interested in contributing to this project, kindly read the [contribution guideline](https://github.com/Everything-Open-Source/open-source-events/blob/main/contributing.md).
+
 
 <details open>
  <summary><h2> January :sparkles: </h2></summary>
