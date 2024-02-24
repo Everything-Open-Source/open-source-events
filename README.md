@@ -45,6 +45,9 @@ If you are interested in contributing to this project, kindly read the [contribu
    
 - [FOSDEM](https://fosdem.org/2024/)
    > Date: 3rd - 4th February || Mode: In-person || Location: Brussels, Belgium.
+
+- [Laracon EU](https://laracon.eu/)
+   > Date: 5th - 6th February || Mode: In-person || Location: Amsterdam, Netherlands.
    
 - [State of OpenCon](https://stateofopencon.com/)
    > Date: 6th - 7th February || Mode: In-person || Location: London, United Kingdom.
@@ -195,6 +198,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [Upstream 2024](https://upstream.live/)
    > Date: 5th June || Mode: Virtual
 
+- [DjangoCon Europe](https://2024.djangocon.eu/)
+   > Date: 5th - 9th June || Mode: In-person || Vigo, Spain.
+
 - [CityJS Athens](https://greece.cityjsconf.org/)
    > Date: 6th - 8th June || Mode: Hybrid
 
@@ -255,6 +261,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 - [posit::conf(2024)](https://posit.co/conference)
    > Date: 12th - 14th August || Mode: Hybrid || Location: Seattle, Washington - USA.
+
+- [Laracon US](https://laracon.us/)
+   > Date:27th - 28th August || Mode: In-person || Location: Deep Ellum, Dallas, Texas - USA.
   
 </details>
 
