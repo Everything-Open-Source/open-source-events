@@ -192,7 +192,7 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
   
-- [Community Over Code Europe](https://apachecon-eu.staged.apache.org/)
+- [Community Over Code Europe](https://eu.communityovercode.org/)
    > Date: 3rd - 5th June || Mode: In-person || Location: Bratislava, Slovakia
 
 - [Upstream 2024](https://upstream.live/)
