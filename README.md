@@ -239,6 +239,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [FlutterCon](https://fluttercon.dev/)
    > Date: 3rd - 5th July || Mode: In-person || Location: Berlin, Germany.
 
+- [SciPy](https://www.scipy2024.scipy.org/)
+   > Date: 8th - 14th July || Mode: In-person || Location: Tacoma Convention Center, Washington - USA.
+
  - [JuliaCon](https://juliacon.org/2024/)
    > Date: 9th - 13th July || Mode: In-person || Location: Eindhoven, Netherlands.
 
