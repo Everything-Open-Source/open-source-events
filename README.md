@@ -222,6 +222,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [WASMCON](https://events.linuxfoundation.org/wasmcon/?utm_medium=email&_hsmi=292413837&_hsenc=p2ANqtz-8J_6YnR8iCnyN5QirkOJ0U45Ea_1l2vwlketo1vN6l9GU0PTFl_xlzTkZDe3DQi8m608zSSWoY8Q3WLgviRpiklN-B5A&utm_content=292413837&utm_source=hs_email)
    > Date: 24th - 25th June || Mode: In-person || Location: Seattle, Washington - USA.
 
+- [Config 2024](https://config.figma.com/)
+   > Date: 26th - 27th June || Mode: In-person || Location: MOSCONE CENTER, SAN FRANCISCO, CA - USA.
+
 </details>
 
 
