@@ -182,9 +182,6 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [PyCon Italia](https://2024.pycon.it/en)
    > Date: 22nd - 25th May || Mode: In-person || Location: Florence, Italy.
 
-- [JDKon 2024](https://jdkon.io/)
-   > Date: 23rd - 24th May || Mode: Online
-
 </details>
 
 
