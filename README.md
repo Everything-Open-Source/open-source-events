@@ -176,8 +176,17 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [Linux Storage|Filesystem|MM & BPF Summit](https://www.redhat.com/en/summit)
    > Date: 13th - 15th May || Mode: In-person || Location: Salt Lake City, UTAH - USA.
 
+- [OpenSIPS Summit 2024](https://www.opensips.org/events/Summit-2024Valencia/)
+   > Date: 14th - 17th May || Mode: In-person || Location: Valencia, Spain.
+
 - [PyCon US](https://us.pycon.org/2024/)
    > Date: 15th - 23rd May || Mode: In-person || Location: Pittsburgh, Pennsylvania - USA.
+
+- [OpenInfra Day France](https://oideurope2024.openinfra.dev/france/#:~:text=22%20May%202024%20%7C%20Paris%2DSaclay,infrastructure%20technologies%20in%20the%20ecosystem.)
+   > Date: 22nd May || Mode: In-person || Location: Salt Lake City, UTAH - USA.
+
+- [SecureChainCon 2024](https://ortelius.io/blog/2024/02/26/securechaincon-2024/)
+   > Date: 22nd May || Mode: Online
 
 - [PyCon Italia](https://2024.pycon.it/en)
    > Date: 22nd - 25th May || Mode: In-person || Location: Florence, Italy.
@@ -296,6 +305,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
  - [Community Over Code Denver](https://communityovercode.org/#:~:text=Denver%2C%20Colorado%2C,Tech%2C%20and%20many%20other%20topics.)
    > Date: 7th - 10th October || Mode: In-person || Location: Denver, Colorado - USA.
+
+ - [PyCon Uganda](https://ug.pycon.org/2024)
+   > Date: 9th - 13th October || Mode: In-person || Location: NWSC International Resource Centre (IREC), Uganda.
 
  - [Open Code Experience](https://opencode-x.org/)
    > Date: 22nd - 24th October || Mode: In-person || Location: Mainz, Germany.
