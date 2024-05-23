@@ -309,6 +309,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [Open Code Experience](https://opencode-x.org/)
    > Date: 22nd - 24th October || Mode: In-person || Location: Mainz, Germany.
 
+ - [PostgreSQL Conference Europe](https://2024.pgconf.eu/)
+   > Date: 22nd - 25th October || Mode: In-person || Location: Divani Caravel Hotel, Athens, Greece.
+
  - [All Things Open](https://2024.allthingsopen.org/)
    > Date: 27th - 29th October || Mode: In-person || Location: Raleigh Convention Center, North Carolina - USA.
    
