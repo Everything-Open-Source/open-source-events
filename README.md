@@ -218,6 +218,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 - [Berlin Buzzwords](https://2024.berlinbuzzwords.de/)
    > Date: 9th - 11th June || Mode: In-person || Location: Berlin, Germany.
+
+- [OW2con](https://www.ow2con.org/)
+   > Date: 11th - 12th June || Mode: In-person || Location: Paris, France.
    
 - [DevConf](https://www.devconf.info/)
    > Date: 13th - 15th June || Mode: In-person || Location: Brno, Czechia
