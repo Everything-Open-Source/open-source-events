@@ -251,6 +251,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [SciPy](https://www.scipy2024.scipy.org/)
    > Date: 8th - 14th July || Mode: In-person || Location: Tacoma Convention Center, Washington - USA.
 
+ - [EuroPython](https://ep2024.europython.eu/)
+   > Date: 8th - 14th July || Mode: Hybrid || Location: The Prague Congress Centre, Prague - Czech Republic and Virtual.
+
  - [JuliaCon](https://juliacon.org/2024/)
    > Date: 9th - 13th July || Mode: In-person || Location: Eindhoven, Netherlands.
 
