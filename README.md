@@ -280,8 +280,11 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> August :sparkles: </h2></summary>
 
+- [FOSSY](https://2024.fossy.us/)
+   > Date: 1st - 4th August || Mode: In-person || Location: Portland State University, Portland, Oregon - USA.
+   
 - [COSCUP](https://coscup.org/2024/en/landing)
-   > Date: 3rd to 4th August || Mode: In-person || Location: National Taiwan University of Science and Technology, Taiwan.
+   > Date: 3rd - 4th August || Mode: In-person || Location: National Taiwan University of Science and Technology, Taiwan.
 
 - [posit::conf(2024)](https://posit.co/conference)
    > Date: 12th - 14th August || Mode: Hybrid || Location: Seattle, Washington - USA.
