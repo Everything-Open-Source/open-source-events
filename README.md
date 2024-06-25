@@ -248,6 +248,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [FlutterCon](https://fluttercon.dev/)
    > Date: 3rd - 5th July || Mode: In-person || Location: Berlin, Germany.
 
+ - [Hong Kong Open Source Conference](https://hkoscon.org/2024/)
+   > Date: 5th - 6th July || Mode: In-person || Location: The University of Hong Kong, China.
+
 - [SciPy](https://www.scipy2024.scipy.org/)
    > Date: 8th - 14th July || Mode: In-person || Location: Tacoma Convention Center, Washington - USA.
 
@@ -260,7 +263,10 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [CityJS Singapore](https://singapore.cityjsconf.org/)
    > Date: 24th - 26th July || Mode: In-person || Location: Lifelong Learning Institute.
 
-- [How.Camp 2024 FOSS](https://how.camp/)
+ - [Community Over Code Asia](https://asia.communityovercode.org/)
+   > Date: 26th - 28th July || Mode: In-person || Location: Hangzhou, China.
+
+ - [How.Camp 2024 FOSS](https://how.camp/)
    > Date: 27th July || Mode: In-person || Location: Gabrovo, Bulgaria.
 
 
@@ -271,8 +277,14 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> August :sparkles: </h2></summary>
 
+- [COSCUP](https://coscup.org/2024/en/landing)
+   > Date: 3rd to 4th August || Mode: In-person || Location: National Taiwan University of Science and Technology, Taiwan.
+
 - [posit::conf(2024)](https://posit.co/conference)
    > Date: 12th - 14th August || Mode: Hybrid || Location: Seattle, Washington - USA.
+
+- [KubeCon | CloudNativeCon | Open Source Summit | AI KubeCon ](https://events.linuxfoundation.org/kubecon-cloudnativecon-open-source-summit-ai-dev-china/)
+   > Date: 21st - 23rd August || Mode: In-person || Location: Hong Kong, China.
 
 - [Laracon US](https://laracon.us/)
    > Date:27th - 28th August || Mode: In-person || Location: Deep Ellum, Dallas, Texas - USA.
@@ -283,6 +295,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 <details open>
  <summary><h2> September :sparkles: </h2></summary>
+ 
+ - [India FOSS](https://platform.fossunited.org/indiafoss/2024)
+   > Date: 7th - 8th September || Mode: In-person || Location: Bengaluru, India.
 
  - [Open Source Summit EU](https://events.linuxfoundation.org/open-source-summit-europe/)
    > Date: 16th - 18th September || Mode: In-person || Location: Vienna, Austria.
