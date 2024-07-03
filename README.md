@@ -313,6 +313,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
  - [Open Source in Finance Forum](https://events.linuxfoundation.org/open-source-finance-forum-new-york/)
    > Date: 22nd - 27th September || Mode: In-person || Location: New York - USA.
+
+ - [PyCon Africa](https://africa.pycon.org/)
+   > Date: 24th - 28th September || Mode: In-person || Location: Accra, Ghana.
  
 </details>
 
