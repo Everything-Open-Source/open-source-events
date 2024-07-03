@@ -339,6 +339,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [All Things Open](https://2024.allthingsopen.org/)
    > Date: 27th - 29th October || Mode: In-person || Location: Raleigh Convention Center, North Carolina - USA.
    
+ - [PyConFR](https://www.pycon.fr/)
+   > Date: 31st October - 3rd November || Mode: In-person || Location: UFR Mathématique et Informatique, Strasbourg - France.
+
 </details>
 
 
