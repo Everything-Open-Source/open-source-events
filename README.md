@@ -317,6 +317,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [PyCon Africa](https://africa.pycon.org/)
    > Date: 24th - 28th September || Mode: In-person || Location: Accra, Ghana.
  
+ - [Nerdearla Argentina](https://nerdear.la/)
+   > Date: 24th - 28th September || Mode: Hybrid || Location: Buenos Aires, Argentina.
+ 
 </details>
 
 
@@ -349,6 +352,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
+
+ - [Nerdearla Mexico](https://nerdearla.mx/)
+   > Date: 7th - 9th November || Mode: Hybrid || Location: Mexico City, Mexico.
   
 </details>
 
