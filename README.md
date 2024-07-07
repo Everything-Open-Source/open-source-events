@@ -269,8 +269,11 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [Community Over Code Asia](https://asia.communityovercode.org/)
    > Date: 26th - 28th July || Mode: In-person || Location: Hangzhou, China.
 
- - [How.Camp 2024 FOSS](https://how.camp/)
+- [How.Camp 2024 FOSS](https://how.camp/)
    > Date: 27th July || Mode: In-person || Location: Gabrovo, Bulgaria.
+
+- [Open Source Days'24](https://events.linuxfoundation.org/open-source-days/)
+   > Date: 28th July || Mode: Hybrid || Location: Denver,Colarado USA and Virtual.
 
 
 </details>
@@ -289,6 +292,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [posit::conf(2024)](https://posit.co/conference)
    > Date: 12th - 14th August || Mode: Hybrid || Location: Seattle, Washington - USA.
 
+- [FrOSCon(2024)](https://froscon.org/)
+   > Date: 17th - 18th August || Mode: In-Person || Location: Bonn-Rhein-Sieg University of Applied Sciences, Sankt Augustin - Germany.
+
 - [KubeCon | CloudNativeCon | Open Source Summit | AI KubeCon ](https://events.linuxfoundation.org/kubecon-cloudnativecon-open-source-summit-ai-dev-china/)
    > Date: 21st - 23rd August || Mode: In-person || Location: Hong Kong, China.
 
@@ -304,6 +310,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  
  - [India FOSS](https://platform.fossunited.org/indiafoss/2024)
    > Date: 7th - 8th September || Mode: In-person || Location: Bengaluru, India.
+
+- [SOSS Policy Summit](https://events.linuxfoundation.org/soss-policy-summit-dc/)
+   > Date: 9th September || Mode: In-person || Location: WASHINGTON,DC, USA.
 
  - [Open Source Summit EU](https://events.linuxfoundation.org/open-source-summit-europe/)
    > Date: 16th - 18th September || Mode: In-person || Location: Vienna, Austria.
@@ -364,4 +373,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> December :sparkles: </h2></summary>
 
+- [Cephalocon](https://events.linuxfoundation.org/cephalocon/)
+   > Date: 4th - 5th December || Mode: In-person || Location: Cern Geneva, Switzerland.
+
+- [Open Source Experience](https://www.opensource-experience.com/)
+   > Date: 4th - 5th December || Mode: In-person || Location: Palais des congrès - Paris, France.
 </details>
