@@ -283,6 +283,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> August :sparkles: </h2></summary>
 
+- [Madison+ Ruby](https://www.madisonruby.com/)
+   > Date: 1st - 2nd August || Mode: In-person || Location: Overture Center for the Arts, Madison, Wisconsin - USA.
+
 - [FOSSY](https://2024.fossy.us/)
    > Date: 1st - 4th August || Mode: In-person || Location: Portland State University, Portland, Oregon - USA.
    
