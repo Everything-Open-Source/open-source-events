@@ -362,6 +362,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
 
+ - [PyCon Zimbabwe](https://zw.pycon.org/)
+   > Date: 1st - 2nd November || Mode: Hybrid || Location: Cresta Oasis Hotel, Harare, Zimbabwe.
+
  - [Nerdearla Mexico](https://nerdearla.mx/)
    > Date: 7th - 9th November || Mode: Hybrid || Location: Mexico City, Mexico.
   
