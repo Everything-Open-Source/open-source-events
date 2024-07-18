@@ -373,7 +373,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
  - [Nerdearla Mexico](https://nerdearla.mx/)
    > Date: 7th - 9th November || Mode: Hybrid || Location: Mexico City, Mexico.
-  
+
+ - [RubyConf 2024](https://rubyconf.org/)
+   > Date: 13th - 15th November || Mode: In-person || Location: Chicago, Illinois - USA.
 </details>
 
 
