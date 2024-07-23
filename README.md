@@ -345,7 +345,7 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [PyCon Uganda](https://ug.pycon.org/2024)
    > Date: 9th - 13th October || Mode: In-person || Location: NWSC International Resource Centre (IREC), Uganda.
 
- - [Open Code Experience](https://opencode-x.org/)
+ - [Open Community Experience](https://www.ocxconf.org/)
    > Date: 22nd - 24th October || Mode: In-person || Location: Mainz, Germany.
 
  - [PostgreSQL Conference Europe](https://2024.pgconf.eu/)
