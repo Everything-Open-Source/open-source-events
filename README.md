@@ -145,6 +145,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [Embedded Open Source Summit](https://events.linuxfoundation.org/embedded-open-source-summit/)
    > Date: 16th - 18th April || Mode: In-person || Location: Seattle, Washington - USA.
 
+ - [FOSS North 2024](https://foss-north.se/2024/)
+   > Date: 15th - 16th April || Mode: In-person || Location: Gothenburg, Sweden.
+
  - [The Free Software Legal and Licensing Workshop 2024](https://fsfe.org/activities/ln/llw-conf.en.html)
    > Date: 17th - 19th April || Mode: In-person || Location: Gothenburg, Sweden.
   
