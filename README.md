@@ -317,11 +317,14 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [India FOSS](https://platform.fossunited.org/indiafoss/2024)
    > Date: 7th - 8th September || Mode: In-person || Location: Bengaluru, India.
 
-- [SOSS Policy Summit](https://events.linuxfoundation.org/soss-policy-summit-dc/)
+ - [SOSS Policy Summit](https://events.linuxfoundation.org/soss-policy-summit-dc/)
    > Date: 9th September || Mode: In-person || Location: WASHINGTON,DC, USA.
 
  - [Open Source Summit EU](https://events.linuxfoundation.org/open-source-summit-europe/)
    > Date: 16th - 18th September || Mode: In-person || Location: Vienna, Austria.
+
+ - [PyCon India](https://in.pycon.org/2024/)
+   > Date: 20th - 23rd September || Mode: In-person || Location: Bengaluru, India.
 
  - [DjangoCon US](https://2024.djangocon.us/)
    > Date: 22nd - 27th September || Mode: In-person || Location: Durham, North Carolina - USA.
