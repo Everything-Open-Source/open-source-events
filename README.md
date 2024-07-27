@@ -275,6 +275,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [How.Camp 2024 FOSS](https://how.camp/)
    > Date: 27th July || Mode: In-person || Location: Gabrovo, Bulgaria.
 
+- [PyOhio](https://www.pyohio.org/2024/)
+   > Date: 27th - 28th July || Mode: In-person || Location: Cleveland, Ohio, USA.
+
 - [Open Source Days'24](https://events.linuxfoundation.org/open-source-days/)
    > Date: 28th July || Mode: Hybrid || Location: Denver,Colarado USA and Virtual.
 
