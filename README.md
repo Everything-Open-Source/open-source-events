@@ -316,12 +316,18 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 <details open>
  <summary><h2> September :sparkles: </h2></summary>
+
+ - [Beam Summit](https://beamsummit.org/)
+   > Date: 4th - 5th September || Mode: In-person || Location: Sunnyvale, CA. USA.
  
  - [India FOSS](https://platform.fossunited.org/indiafoss/2024)
    > Date: 7th - 8th September || Mode: In-person || Location: Bengaluru, India.
 
  - [SOSS Policy Summit](https://events.linuxfoundation.org/soss-policy-summit-dc/)
    > Date: 9th September || Mode: In-person || Location: WASHINGTON,DC, USA.
+
+ - [Airflow Summit](https://airflowsummit.org/)
+   > Date: 10th - 12th September || Mode: In-person || Location: San Francisco, USA.
 
  - [Open Source Summit EU](https://events.linuxfoundation.org/open-source-summit-europe/)
    > Date: 16th - 18th September || Mode: In-person || Location: Vienna, Austria.
