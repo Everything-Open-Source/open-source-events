@@ -277,6 +277,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 - [PyOhio](https://www.pyohio.org/2024/)
    > Date: 27th - 28th July || Mode: In-person || Location: Cleveland, Ohio, USA.
+   
+- [DebConf24](https://debconf24.debconf.org/)
+   > Date: 28th July - 4th August || Mode: In-person || Location:  Busan, South Korea.
 
 - [Open Source Days'24](https://events.linuxfoundation.org/open-source-days/)
    > Date: 28th July || Mode: Hybrid || Location: Denver,Colarado USA and Virtual.
