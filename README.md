@@ -394,6 +394,10 @@ If you are interested in contributing to this project, kindly read the [contribu
 
  - [RubyConf 2024](https://rubyconf.org/)
    > Date: 13th - 15th November || Mode: In-person || Location: Chicago, Illinois - USA.
+
+ - [PyCon Australia](https://2024.pycon.org.au)
+   > Date: 22nd - 26th November || Mode: In-person || Location: Melbourne Convention and Exhibition Centre (MCEC), Victoria, Australia.
+
  - [Angola Open-source Fest 2024](https://sessionize.com/aosfest2024)
    > Date: 30th November || Mode: In-person || Location: Luanda - Angola.
 </details>
