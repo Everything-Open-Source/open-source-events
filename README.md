@@ -372,6 +372,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [Ubuntu Summit](https://events.canonical.com/event/51/)
    > Date: 25th - 27th October || Mode: In-person || Location: The Hague, Netherlands.
 
+ -  [Python Ho Conference](https://2024.pythonho.com/)
+   > Date: 26th - 27th October || Mode: In-person || Location:University of Health and Allied Sciences, Ho, Volta.
+
  - [All Things Open](https://2024.allthingsopen.org/)
    > Date: 27th - 29th October || Mode: In-person || Location: Raleigh Convention Center, North Carolina - USA.
    
