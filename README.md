@@ -157,6 +157,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [LinuxFest Northwest](https://linuxfestnorthwest.org/)
    > Date: 26th - 28th April || Mode: In-person || Location: Bellingham Technical College, Washington, USA.
 
+ - [FLISoL](https://flisol.info//)
+   > Date: 27th April || Mode: Hybrid || Location: Simultaneously 200+ latinamerican cities, LATAM.
+
  - [FedGeoDay](https://www.fedgeo.us/)
    > Date: 30th April || Mode: In-person || Location: Washington DC, USA.
 
