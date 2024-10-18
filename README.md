@@ -400,6 +400,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
  - [PyCon Australia](https://2024.pycon.org.au)
    > Date: 22nd - 26th November || Mode: In-person || Location: Melbourne Convention and Exhibition Centre (MCEC), Victoria, Australia.
+   
+ - [Eclipse SDV Hackathon Chapter Two](https://www.eclipse-foundation.events/event/EclipseSDVHackathon/summary)
+   > Date: 20th - 22nd November || Mode: In-person || Location: ICF Karlsruhe, Karlsruhe, Germany. 
 
  - [Angola Open-source Fest 2024](https://sessionize.com/aosfest2024)
    > Date: 30th November || Mode: In-person || Location: Luanda - Angola.
