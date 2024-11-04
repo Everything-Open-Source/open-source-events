@@ -162,10 +162,6 @@ How can you make the best out of these events or conferences?
 <details open>
  <summary><h2> September :sparkles: </h2></summary>
 
-- [Erlang Workshop](https://icfp24.sigplan.org/home/erlang-2024)
-
-  > Date: 2nd September || Mode: In-person || Location: Milan, Italy.
-
 - [PyCon Portugal](https://2023.pycon.pt/)
 
   > Date: 7th - 9th September || Mode: In-person || Location: Portugal.
