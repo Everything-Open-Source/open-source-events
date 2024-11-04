@@ -23,6 +23,8 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> February :sparkles: </h2></summary>
 
+ - [FOSDEM](https://fosdem.org/2025/)
+   > Date: 1st-2nd February || Mode: In-person || Location: Brussels - Belgium.
 </details>
 
 <details open>
