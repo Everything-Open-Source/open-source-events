@@ -42,6 +42,11 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> May :sparkles: </h2></summary>
 
+ - [PyCon US](https://us.pycon.org/2025/)
+   > Date: 14th - 22nd May || Mode: In-person || Location: Pittsburgh, Pennsylvania - USA.
+
+
+
 </details>
 
 
