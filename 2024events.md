@@ -322,6 +322,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> September :sparkles: </h2></summary>
 
+ - [Erlang Workshop](https://icfp24.sigplan.org/home/erlang-2024)
+  > Date: 2nd September || Mode: In-person || Location: Milan, Italy.
+
  - [Beam Summit](https://beamsummit.org/)
    > Date: 4th - 5th September || Mode: In-person || Location: Sunnyvale, CA. USA.
  
