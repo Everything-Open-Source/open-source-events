@@ -404,6 +404,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [RubyConf 2024](https://rubyconf.org/)
    > Date: 13th - 15th November || Mode: In-person || Location: Chicago, Illinois - USA.
 
+ - [Capitole du Libre 2024](https://capitoledulibre.org/)
+   > Date: 16th - 17th November || Mode: In-person || Location: Toulouse, France.
+
  - [PyCon Australia](https://2024.pycon.org.au)
    > Date: 22nd - 26th November || Mode: In-person || Location: Melbourne Convention and Exhibition Centre (MCEC), Victoria, Australia.
    
