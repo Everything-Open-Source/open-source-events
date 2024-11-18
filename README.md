@@ -42,7 +42,6 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [FOSSASIA Summit](https://summit.fossasia.org)
    > Date: 13th-15th March || Mode: In-person || Location: Bangkok - Thailand.
 </details>
-=======
 
 
 <details open>
