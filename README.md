@@ -28,9 +28,11 @@ If you are interested in contributing to this project, kindly read the [contribu
 
  - [FOSDEM](https://fosdem.org/2025/)
    > Date: 1st-2nd February || Mode: In-person || Location: Brussels - Belgium.
-
-- [Pycon Namibia](https://na.pycon.org)
+ - [SOOCON - State of Open Conference](https://stateofopencon.com/)
+   > Date: 4th-5th February || Mode: In-person || Location: London - United Kingdom.
+ - [Pycon Namibia](https://na.pycon.org)
    > Date: 24th -27th February || Mode: In-person || Location: Windhoek - Namibia.
+   
 </details>
 
 <details open>
