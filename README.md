@@ -18,6 +18,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> January :sparkles: </h2></summary>
 
+- [Everything Open](https://2025.everythingopen.au/)
+   > Date: 1st-2nd February || Mode: In-person || Location: Adelaide, Australia.
+
 </details>
 
 <details open>
@@ -25,6 +28,7 @@ If you are interested in contributing to this project, kindly read the [contribu
 
  - [FOSDEM](https://fosdem.org/2025/)
    > Date: 1st-2nd February || Mode: In-person || Location: Brussels - Belgium.
+
 - [Pycon Namibia](https://na.pycon.org)
    > Date: 24th -27th February || Mode: In-person || Location: Windhoek - Namibia.
 </details>
@@ -32,7 +36,8 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> March :sparkles: </h2></summary>
 
-</details>
+- [SCALE22x](https://www.socallinuxexpo.org/scale/22x)
+   > Date: 6th-9th March || Mode: In-person || Location: Pasadena - California.
 
 
 <details open>
@@ -46,6 +51,10 @@ If you are interested in contributing to this project, kindly read the [contribu
 
  - [PyCon US](https://us.pycon.org/2025/)
    > Date: 14th - 22nd May || Mode: In-person || Location: Pittsburgh, Pennsylvania - USA.
+
+- [Red Hat Summit](https://www.redhat.com/en/summit)
+   > Date: 19th - 22nd May || Mode: In-person || Location: Boston - Massachusetts, USA
+
 
 
 
@@ -64,6 +73,12 @@ If you are interested in contributing to this project, kindly read the [contribu
  <summary><h2> July :sparkles: </h2></summary>
 
 </details>
+
+- [GUADEC](https://events.gnome.org/event/259/)
+   > Date: 24th - 29th || Mode: In-person || Location: Brescia, Italy.
+
+- [FOSSY 25](https://2025.fossy.us/)
+   > Date: 31st - 3rd August || Mode: In-person || Location: Portland, Oregon, USA.
 
 
 
@@ -86,7 +101,11 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 </details>
 
+- [All Things Open](https://2025.allthingsopen.org/)
+   > Date: 12th - 14th || Mode: In-person || Location: Raleigh, NC USA.
 
+- [Github Universe](https://githubuniverse.com/)
+   > Date: 28th - 29th || Mode: In-person || Location: not annouced yet
 
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
