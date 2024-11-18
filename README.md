@@ -47,6 +47,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
 
+ - [FLISoL](https://flisol.info/en)
+   > Date: 26th April || Mode: Hybrid || Location: Simultaneously 200+ latinamerican cities, LATAM.
+
 </details>
 
 
