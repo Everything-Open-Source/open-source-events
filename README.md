@@ -18,8 +18,17 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> January :sparkles: </h2></summary>
 
+- [Try! Swift x AI Singapore](https://www.tryswift.co/world/)
+   > Date: 18th - 19th January || Mode: In-person || Location: Singapore.
+
 - [Everything Open](https://2025.everythingopen.au/)
-   > Date: 1st-2nd February || Mode: In-person || Location: Adelaide, Australia.
+   > Date: 20th - 22nd January || Mode: In-person || Location: Adelaide, Australia.
+
+- [Vuejs Nation Conference](https://vuejsnation.com/)
+   > Date: 29th - 30th January || Mode: Virtual
+
+- [EU Open Source Policy Summit](https://openforumeurope.org/event/eu-open-source-policy-summit/)
+   > Date: 31st January, 2025 || Mode: Online || Location: Brussels, Belgium.
 
 </details>
 
@@ -42,14 +51,26 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 - [SCALE22x](https://www.socallinuxexpo.org/scale/22x)
    > Date: 6th-9th March || Mode: In-person || Location: Pasadena - California.
+
+- [FOSS Backstage Design](https://25.foss-backstage.de/)
+   > Date: 12th March || Mode: In-Person || Location: Berlin, Germany. 
   
 - [FOSSASIA Summit](https://summit.fossasia.org)
    > Date: 13th-15th March || Mode: In-person || Location: Bangkok - Thailand.
+
+- [WordCamp Asia](https://asia.wordcamp.org/2025)
+   > Date: 20th-22nd February || Mode: In-person || Location: Manila - Philippines.
 </details>
 
 
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
+
+ - [PyCon Austria](https://pycon.pyug.at/en/)
+   > Date: 6th - 7th || Mode: In-person || Location: Eisenstadt - Burgenland, Austria
+
+ - [PyTexas Conference](https://www.pytexas.org/2025/)
+   > Date: 11th - 13th || Mode: In-person || Location: Austin - Texas, USA
 
  - [FLISoL](https://flisol.info/en)
    > Date: 26th April || Mode: Hybrid || Location: Simultaneously 200+ latinamerican cities, LATAM.
@@ -76,6 +97,16 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
 
+ - [KubeCon, CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/)
+   > Date: 10th - 11th June || Mode: In-person || Location: Hong Kong, China
+
+ - [POSETTE, An Event for Postgres](https://posetteconf.com/2025/)
+   > Date: 10th - 12th June || Mode: Virtual || Location: Online
+
+ - [PyCamp Leipzig](https://lpug.github.io/)
+   > Date: 28th - 29th June || Mode: In-person || Location: Leipzig, Germany
+
+  
 </details>
 
 
@@ -123,23 +154,32 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
 
-</details>
-
-- [All Things Open](https://2025.allthingsopen.org/)
-   > Date: 12th - 14th || Mode: In-person || Location: Raleigh, NC USA.
+ - [All Things Open](https://2025.allthingsopen.org/)
+   > Date: 12th - 14th October || Mode: In-person || Location: Raleigh, NC USA.
 
 - [Github Universe](https://githubuniverse.com/)
-   > Date: 28th - 29th || Mode: In-person || Location: not annouced yet
+   > Date: 28th - 29th October || Mode: In-person || Location: not announced yet
+
+</details>
+
+
 
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
-
+  
+- [KubeCon + CloudNativeCon](https://www.cncf.io/events/)
+   > Date: 10th - 13th November || Mode: In-person || Location: Atlanta, United States.
 </details>
+
+
 
 
 
 <details open>
  <summary><h2> December :sparkles: </h2></summary>
+
+  - [Open source summit Japan](https://events.linuxfoundation.org/open-source-summit-japan-2025/)
+     > Date: 8th - 10th December || Mode: In-person || Location: Tokyo, Japan.
 
 </details>
 
