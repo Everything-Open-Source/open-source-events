@@ -18,6 +18,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> January :sparkles: </h2></summary>
 
+- [Try! Swift x AI Singapore](https://dev.events/conferences/try-swift-x-ai-singapore-a-slod9l)
+   > Date: 18th - 19th January || Mode: In-person || Location: Singapore.
+
 - [Everything Open](https://2025.everythingopen.au/)
    > Date: 20th - 22nd January || Mode: In-person || Location: Adelaide, Australia.
 
