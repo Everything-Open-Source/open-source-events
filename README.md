@@ -18,13 +18,16 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> January :sparkles: </h2></summary>
 
-- [EU Open Source Policy Summit](https://openforumeurope.org/event/eu-open-source-policy-summit/)
-   > Date: 31st January, 2025 || Mode: Online || Location: Brussels, Belgium.
-
 - [Everything Open](https://2025.everythingopen.au/)
    > Date: 20th - 22nd January || Mode: In-person || Location: Adelaide, Australia.
 - [Vue.js Nation Conference](https://vuejsnation.com)
   > Date: 29th - 30th January || Mode: Virtual
+
+- [Vuejs Nation Conference](https://vuejsnation.com/)
+   > Date: 29th - 30th January || Mode: Virtual
+
+- [EU Open Source Policy Summit](https://openforumeurope.org/event/eu-open-source-policy-summit/)
+   > Date: 31st January, 2025 || Mode: Online || Location: Brussels, Belgium.
 
 </details>
 
