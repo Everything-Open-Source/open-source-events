@@ -88,6 +88,12 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
 
+ - [KubeCon, CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/)
+   > Date: 10th - 11th June || Mode: In-person || Location: Hong Kong, China
+
+ - [POSETTE, An Event for Postgres](https://posetteconf.com/2025/)
+   > Date: 10th - 12th June || Mode: Virtual || Location: Online
+
  - [PyCamp Leipzig](https://lpug.github.io/)
    > Date: 28th - 29th June || Mode: In-person || Location: Leipzig, Germany
 
