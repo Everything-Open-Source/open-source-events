@@ -73,7 +73,10 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
-
+  
+ - [PyCon Austria](https://pycon.pyug.at/en/)
+   > Date: 5th - 6th || Mode: In-person || Location: Eisenstadt - Burgenland, Austria
+  
 </details>
 
 
