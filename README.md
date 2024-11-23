@@ -28,8 +28,10 @@ If you are interested in contributing to this project, kindly read the [contribu
 
  - [FOSDEM](https://fosdem.org/2025/)
    > Date: 1st-2nd February || Mode: In-person || Location: Brussels - Belgium.
+
  - [SOOCON - State of Open Conference](https://stateofopencon.com/)
    > Date: 4th-5th February || Mode: In-person || Location: London - United Kingdom.
+
  - [Pycon Namibia](https://na.pycon.org)
    > Date: 24th -27th February || Mode: In-person || Location: Windhoek - Namibia.
    
@@ -82,31 +84,24 @@ If you are interested in contributing to this project, kindly read the [contribu
  <summary><h2> July :sparkles: </h2></summary>
 
 </details>
-
-- [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/)
-   > Date: 6th - 7th || Mode: In-person || Location: Hyderabad, India.
    
-- [Automotive Grade Linux All Member Meeting ](https://events.linuxfoundation.org/agl-amm/)
-   > Date: 14th - 20th || Mode: In-person || Location:  Berlin, Germany.
-
 - [Foss4g](https://2025.europe.foss4g.org/)
-   > Date: 14th - 20th || Mode: In-person || Location: Mostar, Bosnia.
+   > Date: 14th - 20th July || Mode: In-person || Location: Mostar, Bosnia.
 
 - [OpenEdX](https://con.openedx.org/)
-   > Date: 1st - 4th || Mode: In-person || Location: Télécom Paris, France.
+   > Date: 1st - 4th July|| Mode: In-person || Location: Télécom Paris, France.
 
 - [Debcon25](https://debconf25.debconf.org/)
-   > Date: 14th - 20th || Mode: In-person || Location: Brest, France.
+   > Date: 14th - 20th July || Mode: In-person || Location: Brest, France.
 
 - [JuliaCon](https://juliacon.org/2025/)
-   > Date: 21st - 26th || Mode: In-person || Location: Pittsburgh, PA.
+   > Date: 21st - 26th July || Mode: In-person || Location: Pittsburgh, PA.
 
 - [GUADEC](https://events.gnome.org/event/259/)
-   > Date: 24th - 29th || Mode: In-person || Location: Brescia, Italy.
+   > Date: 24th - 29th July || Mode: In-person || Location: Brescia, Italy.
 
 - [FOSSY 25](https://2025.fossy.us/)
-   > Date: 31st - 3rd August || Mode: In-person || Location: Portland, Oregon, USA.
-
+   > Date: 31st July - 3rd August || Mode: In-person || Location: Portland, Oregon, USA.
 
 
 <details open>
@@ -114,7 +109,8 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 </details>
 
-
+- [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/)
+   > Date: 6th - 7th August|| Mode: In-person || Location: Hyderabad, India.
 
 <details open>
  <summary><h2> September :sparkles: </h2></summary>
@@ -122,7 +118,7 @@ If you are interested in contributing to this project, kindly read the [contribu
 </details>
 
 - [FlutterCon](https://fluttercon.dev)
-   > Date: 24th - 26th || Mode: In-person || Location: Europe.
+   > Date: 24th - 26th September || Mode: In-person || Location: Europe.
 
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
