@@ -19,7 +19,7 @@ If you are interested in contributing to this project, kindly read the [contribu
  <summary><h2> January :sparkles: </h2></summary>
 
 - [Everything Open](https://2025.everythingopen.au/)
-   > Date: 1st-2nd February || Mode: In-person || Location: Adelaide, Australia.
+   > Date: 20th - 22nd January || Mode: In-person || Location: Adelaide, Australia.
 
 </details>
 
