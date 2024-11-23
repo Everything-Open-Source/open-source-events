@@ -132,18 +132,24 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
 
-</details>
-
-- [All Things Open](https://2025.allthingsopen.org/)
+ - [All Things Open](https://2025.allthingsopen.org/)
    > Date: 12th - 14th || Mode: In-person || Location: Raleigh, NC USA.
 
 - [Github Universe](https://githubuniverse.com/)
-   > Date: 28th - 29th || Mode: In-person || Location: not annouced yet
+   > Date: 28th - 29th || Mode: In-person || Location: not announced yet
+
+</details>
+
+
 
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
-
+  
+- [KubeCon + CloudNativeCon](https://www.cncf.io/events/)
+   > Date: 10th - 13th || Mode: In-person || Location: Atlanta, United States.
 </details>
+
+
 
 
 
