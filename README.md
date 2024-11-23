@@ -73,6 +73,8 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
+ - [PyCamp Leipzig](https://lpug.github.io/)
+   > Date: 28th - 29th June || Mode: In-person || Location: Leipzig, Germany
 
 </details>
 
