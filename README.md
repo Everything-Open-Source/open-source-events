@@ -18,6 +18,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> January :sparkles: </h2></summary>
 
+- [EU Open Source Policy Summit](https://openforumeurope.org/event/eu-open-source-policy-summit/)
+   > Date: 31st January, 2025 || Mode: Online || Location: Brussels, Belgium.
+
 - [Everything Open](https://2025.everythingopen.au/)
    > Date: 20th - 22nd January || Mode: In-person || Location: Adelaide, Australia.
 - [Vue.js Nation Conference](https://vuejsnation.com)
@@ -59,6 +62,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
 
+ - [PyCon Austria](https://pycon.pyug.at/en/)
+   > Date: 5th - 6th || Mode: In-person || Location: Eisenstadt - Burgenland, Austria
+
  - [FLISoL](https://flisol.info/en)
    > Date: 26th April || Mode: Hybrid || Location: Simultaneously 200+ latinamerican cities, LATAM.
 
@@ -83,9 +89,11 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
+
  - [PyCamp Leipzig](https://lpug.github.io/)
    > Date: 28th - 29th June || Mode: In-person || Location: Leipzig, Germany
 
+  
 </details>
 
 
