@@ -1,4 +1,4 @@
-    # Contribution guideline
+# Contribution guideline
 
 Before making a pull request, please make sure of the following:
 - The name of the event you want to add does not already exist in the list
