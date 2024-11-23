@@ -20,6 +20,8 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 - [Everything Open](https://2025.everythingopen.au/)
    > Date: 20th - 22nd January || Mode: In-person || Location: Adelaide, Australia.
+- [Vue.js Nation Conference](https://vuejsnation.com)
+  > Date: 29th - 30th January || Mode: Virtual
 
 </details>
 
