@@ -19,7 +19,7 @@ If you are interested in contributing to this project, kindly read the [contribu
  <summary><h2> January :sparkles: </h2></summary>
 
 - [Everything Open](https://2025.everythingopen.au/)
-   > Date: 1st-2nd February || Mode: In-person || Location: Adelaide, Australia.
+   > Date: 20th - 22nd January || Mode: In-person || Location: Adelaide, Australia.
 
 </details>
 
@@ -28,6 +28,8 @@ If you are interested in contributing to this project, kindly read the [contribu
 
  - [FOSDEM](https://fosdem.org/2025/)
    > Date: 1st-2nd February || Mode: In-person || Location: Brussels - Belgium.
+  - [Laracon EU](https://laracon.eu/)
+   > Date: 3rd-4th February || Mode: In-person || Location: Amsterdam, Netherlands.
  - [SOOCON - State of Open Conference](https://stateofopencon.com/)
    > Date: 4th-5th February || Mode: In-person || Location: London - United Kingdom.
  - [Pycon Namibia](https://na.pycon.org)
@@ -76,6 +78,8 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
+ - [PyCamp Leipzig](https://lpug.github.io/)
+   > Date: 28th - 29th June || Mode: In-person || Location: Leipzig, Germany
 
 </details>
 
