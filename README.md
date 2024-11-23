@@ -69,6 +69,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [PyCon Austria](https://pycon.pyug.at/en/)
    > Date: 6th - 7th || Mode: In-person || Location: Eisenstadt - Burgenland, Austria
 
+ - [PyTexas Conference](https://www.pytexas.org/2025/)
+   > Date: 11th - 13th || Mode: In-person || Location: Austin - Texas, USA
+
  - [FLISoL](https://flisol.info/en)
    > Date: 26th April || Mode: Hybrid || Location: Simultaneously 200+ latinamerican cities, LATAM.
 
