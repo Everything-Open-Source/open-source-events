@@ -18,6 +18,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> January :sparkles: </h2></summary>
 
+- [Try! Swift x AI Singapore](https://www.tryswift.co/world/)
+   > Date: 18th - 19th January || Mode: In-person || Location: Singapore.
+
 - [Everything Open](https://2025.everythingopen.au/)
    > Date: 20th - 22nd January || Mode: In-person || Location: Adelaide, Australia.
 
@@ -49,7 +52,7 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [SCALE22x](https://www.socallinuxexpo.org/scale/22x)
    > Date: 6th-9th March || Mode: In-person || Location: Pasadena - California.
 
-- [FOSS Backstage Design](https://dev.events/conferences/foss-backstage-design-2025-vfrqahd3)
+- [FOSS Backstage Design](https://25.foss-backstage.de/)
    > Date: 12th March || Mode: In-Person || Location: Berlin, Germany. 
   
 - [FOSSASIA Summit](https://summit.fossasia.org)
