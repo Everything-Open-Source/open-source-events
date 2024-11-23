@@ -45,6 +45,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 - [SCALE22x](https://www.socallinuxexpo.org/scale/22x)
    > Date: 6th-9th March || Mode: In-person || Location: Pasadena - California.
+
+   - [FOSS Backstage Design](https://dev.events/conferences/foss-backstage-design-2025-vfrqahd3)
+   > Date: 12th March || Mode: In-Person || Location: Berlin, Germany. 
   
 - [FOSSASIA Summit](https://summit.fossasia.org)
    > Date: 13th-15th March || Mode: In-person || Location: Bangkok - Thailand.
