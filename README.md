@@ -32,53 +32,77 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 </details>
 
+
+
 <details open>
  <summary><h2> February :sparkles: </h2></summary>
 
  - [FOSDEM](https://fosdem.org/2025/)
-   > Date: 1st-2nd February || Mode: In-person || Location: Brussels - Belgium.
+   > Date: 1st - 2nd February || Mode: In-person || Location: Brussels, Belgium.
 
  - [Laracon EU](https://laracon.eu/)
-   > Date: 3rd-4th February || Mode: In-person || Location: Amsterdam, Netherlands.
+   > Date: 3rd - 4th February || Mode: In-person || Location: Amsterdam, Netherlands.
 
  - [SOOCON - State of Open Conference](https://stateofopencon.com/)
-   > Date: 4th-5th February || Mode: In-person || Location: London - United Kingdom.
+   > Date: 4th - 5th February || Mode: In-person || Location: London, United Kingdom.
+
+ - [WordCamp Asia](https://asia.wordcamp.org/2025)
+   > Date: 20th - 22nd February || Mode: In-person || Location: Manila, Philippines.
 
  - [Pycon Namibia](https://na.pycon.org)
-   > Date: 24th -27th February || Mode: In-person || Location: Windhoek - Namibia.
+   > Date: 24th - 27th February || Mode: In-person || Location: Windhoek, Namibia.
    
 </details>
+
+
 
 <details open>
  <summary><h2> March :sparkles: </h2></summary>
 
 - [SCALE22x](https://www.socallinuxexpo.org/scale/22x)
-   > Date: 6th-9th March || Mode: In-person || Location: Pasadena - California.
+   > Date: 6th - 9th March || Mode: In-person || Location: Pasadena, California - USA.
+
+- [FOSS Backstage](https://25.foss-backstage.de/)
+   > Date: 10th - 11th March || Mode: In-person || Location: Berlin, Germany.
 
 - [FOSS Backstage Design](https://25.foss-backstage.de/)
-   > Date: 12th March || Mode: In-Person || Location: Berlin, Germany. 
+   > Date: 12th March || Mode: In-Person || Location: Berlin, Germany.
   
 - [FOSSASIA Summit](https://summit.fossasia.org)
-   > Date: 13th-15th March || Mode: In-person || Location: Bangkok - Thailand.
+   > Date: 13th - 15th March || Mode: In-person || Location: Bangkok, Thailand.
 
-- [WordCamp Asia](https://asia.wordcamp.org/2025)
-   > Date: 20th-22nd February || Mode: In-person || Location: Manila - Philippines.
+- [Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/)
+   > Date: 18th - 20th March || Mode: In-person || Location: Napa, California - USA.
+
+- [Open Source Day](https://osday.dev/)
+   > Date: 21st March || Mode: In-person || Location: Florence, Italy.
+
 </details>
+
+
 
 
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
 
+- [ArgoCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/)
+   > Date: 1st April || Mode: In-person || Location: London, England.
+
  - [PyCon Austria](https://pycon.pyug.at/en/)
-   > Date: 6th - 7th || Mode: In-person || Location: Eisenstadt - Burgenland, Austria
+   > Date: 6th - 7th April || Mode: In-person || Location: Eisenstadt, Austria.
 
  - [PyTexas Conference](https://www.pytexas.org/2025/)
-   > Date: 11th - 13th || Mode: In-person || Location: Austin - Texas, USA
+   > Date: 11th - 13th April || Mode: In-person || Location: Austin, Texas - USA.
+
+ - [FOSS North](https://foss-north.se/2025/)
+   > Date: 14th - 15th April || Mode: In-person || Location: Gothenburg, Sweden.
 
  - [FLISoL](https://flisol.info/en)
    > Date: 26th April || Mode: Hybrid || Location: Simultaneously 200+ latinamerican cities, LATAM.
 
 </details>
+
+
 
 
 <details open>
@@ -88,12 +112,10 @@ If you are interested in contributing to this project, kindly read the [contribu
    > Date: 14th - 22nd May || Mode: In-person || Location: Pittsburgh, Pennsylvania - USA.
 
 - [Red Hat Summit](https://www.redhat.com/en/summit)
-   > Date: 19th - 22nd May || Mode: In-person || Location: Boston - Massachusetts, USA
-
-
-
+   > Date: 19th - 22nd May || Mode: In-person || Location: Boston, Massachusetts - USA
 
 </details>
+
 
 
 
@@ -109,15 +131,12 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [PyCamp Leipzig](https://lpug.github.io/)
    > Date: 28th - 29th June || Mode: In-person || Location: Leipzig, Germany
 
-  
 </details>
 
 
 
 <details open>
  <summary><h2> July :sparkles: </h2></summary>
-
-</details>
    
 - [Foss4g](https://2025.europe.foss4g.org/)
    > Date: 14th - 20th July || Mode: In-person || Location: Mostar, Bosnia.
@@ -128,31 +147,43 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [Debcon25](https://debconf25.debconf.org/)
    > Date: 14th - 20th July || Mode: In-person || Location: Brest, France.
 
+- [Open Sauce](https://opensauce.com/)
+   > Date: 18th - 20th July || Mode: In-person || Location: San Francisco Bay Area, California - USA.
+
 - [JuliaCon](https://juliacon.org/2025/)
    > Date: 21st - 26th July || Mode: In-person || Location: Pittsburgh, PA.
 
 - [GUADEC](https://events.gnome.org/event/259/)
    > Date: 24th - 29th July || Mode: In-person || Location: Brescia, Italy.
 
-- [FOSSY 25](https://2025.fossy.us/)
-   > Date: 31st July - 3rd August || Mode: In-person || Location: Portland, Oregon, USA.
+</details>
+
+
 
 
 <details open>
  <summary><h2> August :sparkles: </h2></summary>
 
-</details>
-
 - [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/)
    > Date: 6th - 7th August|| Mode: In-person || Location: Hyderabad, India.
+
+- [FOSSY 25](https://2025.fossy.us/)
+   > Date: 31st July - 3rd August || Mode: In-person || Location: Portland, Oregon, USA.
+
+</details>
+
+
+
 
 <details open>
  <summary><h2> September :sparkles: </h2></summary>
 
+- [FlutterCon](https://fluttercon.dev)
+   > Date: 24th - 26th September || Mode: In-person || Location: Berlin, Germany.
+
 </details>
 
-- [FlutterCon](https://fluttercon.dev)
-   > Date: 24th - 26th September || Mode: In-person || Location: Europe.
+
 
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
@@ -167,11 +198,13 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 
 
+
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
   
 - [KubeCon + CloudNativeCon](https://www.cncf.io/events/)
    > Date: 10th - 13th November || Mode: In-person || Location: Atlanta, United States.
+
 </details>
 
 
