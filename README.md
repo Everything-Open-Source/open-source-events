@@ -85,8 +85,11 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> April :sparkles: </h2></summary>
 
-- [ArgoCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/)
+ - [ArgoCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/)
    > Date: 1st April || Mode: In-person || Location: London, England.
+
+ - [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+   > Date: 1st - 4th April || Mode: In-person || Location: London, England.
 
  - [PyCon Austria](https://pycon.pyug.at/en/)
    > Date: 6th - 7th April || Mode: In-person || Location: Eisenstadt, Austria.
@@ -99,6 +102,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
  - [FLISoL](https://flisol.info/en)
    > Date: 26th April || Mode: Hybrid || Location: Simultaneously 200+ latinamerican cities, LATAM.
+
+ - [StackConf](https://stackconf.eu/)
+   > Date: 26th - 30th April || Mode: In-person || Location: Munich, Germany.
 
 </details>
 
