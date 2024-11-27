@@ -128,7 +128,7 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> June :sparkles: </h2></summary>
 
-  - [Berlin, PHP Conference](https://phpconference.com/berlin-en/)
+ - [Berlin, PHP Conference](https://phpconference.com/berlin-en/)
    > Date:June 2 – 6, 2025 || Mode: In-person or Online  || Location: Berlin,Germany
   
  - [KubeCon, CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/)
