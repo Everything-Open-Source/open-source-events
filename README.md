@@ -220,6 +220,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [KubeCon + CloudNativeCon](https://www.cncf.io/events/)
    > Date: 10th - 13th November || Mode: In-person || Location: Atlanta, United States.
 
+- [Kubecon North America 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025/)
+  > Date: 10th - 13th November || Mode: In-person || Location: Atlanta, Georgia
+
 </details>
 
 
@@ -228,6 +231,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
   - [Open source summit Japan](https://events.linuxfoundation.org/open-source-summit-japan-2025/)
      > Date: 8th - 10th December || Mode: In-person || Location: Tokyo, Japan.
+   
+   - [AI_dev: Open Source GenAI & ML Summit Japan 2025](https://events.linuxfoundation.org/ai-dev-japan-2025/)
+     > Date: 8th - 10th || Mode: In-person || Location: Tokyo, Japan
 
 </details>
 
