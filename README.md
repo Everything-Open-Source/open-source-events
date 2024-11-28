@@ -208,7 +208,14 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 
 - [JSConf](https://events.linuxfoundation.org/jsconf-north-america/)
-  > Date: 14th - 16th || Mode: In-person || Location: MAryland, United States
+  > Date: 14th - 16th || Mode: In-person || Location: Maryland, United States
+
+- [InfoSec World](https://www.infosecworldusa.com/)
+  > Date: 27th - 29th || Mode: In-person || Location: Charlotte, NC, USA
+
+- [Executive Women’s Forum](https://conference.ewf-usa.com/event/c76cd0b2-f7f7-4e49-8ca2-dbded0406e07/summary)
+  > Date: 15th - 17th || Mode: In-person || Location: San Antonio, TX, USA
+
 
 </details>
 
@@ -223,17 +230,28 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [Kubecon North America 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025/)
   > Date: 10th - 13th November || Mode: In-person || Location: Atlanta, Georgia
 
+- [Web Summit](https://websummit.com/)
+  > Date: 11th - 14th November || Mode: In-person || Location: Lisbon, Portugal
+
 </details>
 
 
 <details open>
  <summary><h2> December :sparkles: </h2></summary>
 
-  - [Open source summit Japan](https://events.linuxfoundation.org/open-source-summit-japan-2025/)
+  - [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan-2025/)
      > Date: 8th - 10th December || Mode: In-person || Location: Tokyo, Japan.
    
    - [AI_dev: Open Source GenAI & ML Summit Japan 2025](https://events.linuxfoundation.org/ai-dev-japan-2025/)
      > Date: 8th - 10th || Mode: In-person || Location: Tokyo, Japan
+
+   - [Open Compliance Summit 2025](https://events.linuxfoundation.org/open-compliance-summit-2025/)
+     > Date: 11th - 12th || Mode: In-person || Location: Tokyo, Japan
+
+   - [AWS re:Invent](https://reinvent.awsevents.com/)
+     > Date: <Not out yet> || Mode: In-person || Location: Las Vegas, USA
+   
+  
 
 </details>
 
