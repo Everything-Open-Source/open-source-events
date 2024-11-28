@@ -40,14 +40,29 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [FOSDEM](https://fosdem.org/2025/)
    > Date: 1st - 2nd February || Mode: In-person || Location: Brussels, Belgium.
 
+ - [Python devroom @FOSDEM](https://fosdem.org/2025/schedule/track/python/)
+   > Date: 1st - 2nd February || Mode: In-person || Location: Brussels, Belgium.
+
  - [Laracon EU](https://laracon.eu/)
    > Date: 3rd - 4th February || Mode: In-person || Location: Amsterdam, Netherlands.
 
  - [SOOCON - State of Open Conference](https://stateofopencon.com/)
-   > Date: 4th - 5th February || Mode: In-person || Location: London, United Kingdom.
+   > Date: 15th - 16th February || Mode: In-person || Location: London, United Kingdom.
+
+ - [Python Barcamp Karlsruhe](https://barcamps.eu/python-barcamp-karlsruhe-2025/)
+   > Date: 20th - 22nd February || Mode: In-person || Location: Karlsruhe, Germany.
 
  - [WordCamp Asia](https://asia.wordcamp.org/2025)
    > Date: 20th - 22nd February || Mode: In-person || Location: Manila, Philippines.
+
+ - [Django Girls Koforidua](https://djangogirls.org/en/koforidua/)
+   > Date: 21st - 22nd February || Mode: In-person || Location: Koforidua, Ghana.
+
+ - [DjangoCongress](https://djangocongress.jp/)
+   > Date: 22nd February || Mode: Virtual
+
+ - [GeoPython](https://2025.geopython.net/)
+   > Date: 24th - 26th February || Mode: In-person || Location: Basel, Switzerland.
 
  - [Pycon Namibia](https://na.pycon.org)
    > Date: 24th - 27th February || Mode: In-person || Location: Windhoek, Namibia.
@@ -59,8 +74,14 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> March :sparkles: </h2></summary>
 
+- [SOSS Policy Summit - Open Source Security Foundation](https://events.linuxfoundation.org/soss-policy-summit-dc/)
+   > Date: 4th March || Mode: In-person || Location: Washington, DC - USA.
+
 - [SCALE22x](https://www.socallinuxexpo.org/scale/22x)
    > Date: 6th - 9th March || Mode: In-person || Location: Pasadena, California - USA.
+
+- [Umbraco Spark](https://umbracospark.com/)
+   > Date: 7th March || Mode: In-person || Location: Bristol, United Kingdom.
 
 - [FOSS Backstage](https://25.foss-backstage.de/)
    > Date: 10th - 11th March || Mode: In-person || Location: Berlin, Germany.
@@ -100,11 +121,20 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [FOSS North](https://foss-north.se/2025/)
    > Date: 14th - 15th April || Mode: In-person || Location: Gothenburg, Sweden.
 
+ - [PyCon DE & PyData 2025](https://2025.pycon.de/)
+   > Date: 23rd - 25th April || Mode: In-person || Location: Frankfurt, Germany.
+
+ - [Django Girls Ho](https://djangogirls.org/en/ho/)
+   > Date: 25th - 26th April || Mode: In-person || Location: Ho, Ghana.
+
  - [FLISoL](https://flisol.info/en)
    > Date: 26th April || Mode: Hybrid || Location: Simultaneously 200+ latinamerican cities, LATAM.
 
  - [StackConf](https://stackconf.eu/)
    > Date: 26th - 30th April || Mode: In-person || Location: Munich, Germany.
+
+ - [Open SearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/)
+   > Date: 30th April - 1 May 2025 || Mode: In-person || Location: Amsterdam, Netherlands.
 
 </details>
 
@@ -114,11 +144,14 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> May :sparkles: </h2></summary>
 
- - [PyCon US](https://us.pycon.org/2025/)
+- [PyCon US](https://us.pycon.org/2025/)
    > Date: 14th - 22nd May || Mode: In-person || Location: Pittsburgh, Pennsylvania - USA.
 
 - [Red Hat Summit](https://www.redhat.com/en/summit)
-   > Date: 19th - 22nd May || Mode: In-person || Location: Boston, Massachusetts - USA
+   > Date: 19th - 22nd May || Mode: In-person || Location: Boston, Massachusetts - USA.
+
+- [PyCon Italia](https://2025.pycon.it/en)
+   > Date: 28th - 31st May || Mode: In-person || Location: Bologna, Italy.
 
 </details>
 
@@ -131,11 +164,20 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [Berlin, PHP Conference](https://phpconference.com/berlin-en/)
    > Date:June 2 – 6, 2025 || Mode: In-person or Online  || Location: Berlin,Germany
   
- - [KubeCon, CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/)
+ - [KubeCon + CloudNativeCon China](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/)
    > Date: 10th - 11th June || Mode: In-person || Location: Hong Kong, China
 
  - [POSETTE, An Event for Postgres](https://posetteconf.com/2025/)
    > Date: 10th - 12th June || Mode: Virtual || Location: Online
+
+ - [Berlin Buzzwords](https://2025.berlinbuzzwords.de/)
+   > Date: 15th - 17th June || Mode: In-person || Location: Berlin, Germany.
+
+ - [KubeCon + CloudNativeCon Japan](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)
+   > Date: 16th - 17th June || Mode: In-person || Location: Tokyo, Japan.
+
+ - [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/)
+   > Date: 23rd - 25th June || Mode: In-person || Location: Denver, Colorado - USA.
 
  - [PyCamp Leipzig](https://lpug.github.io/)
    > Date: 28th - 29th June || Mode: In-person || Location: Leipzig, Germany
@@ -146,6 +188,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 <details open>
  <summary><h2> July :sparkles: </h2></summary>
+
+- [Open EDX](https://con.openedx.org/)
+   > Date: 1st - 4th July || Mode: In-person || Location: Paris, France.
    
 - [Foss4g](https://2025.europe.foss4g.org/)
    > Date: 14th - 20th July || Mode: In-person || Location: Mostar, Bosnia.
@@ -176,6 +221,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/)
    > Date: 6th - 7th August|| Mode: In-person || Location: Hyderabad, India.
 
+- [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
+   > Date: 25th - 27th August || Mode: In-person || Location: Amsterdam, Netherlands.
+
 - [FOSSY 25](https://2025.fossy.us/)
    > Date: 31st July - 3rd August || Mode: In-person || Location: Portland, Oregon, USA.
 
@@ -197,7 +245,10 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> October :sparkles: </h2></summary>
 
- - [All Things Open](https://2025.allthingsopen.org/)
+- [PyCon Estonia](https://pycon.ee/)
+   > Date: 2nd - 3rd October || Mode: In-person || Location: Tallinn, Estonia.
+
+- [All Things Open](https://2025.allthingsopen.org/)
    > Date: 12th - 14th October || Mode: In-person || Location: Raleigh, NC USA.
 
 - [Github Universe](https://githubuniverse.com/)
@@ -211,7 +262,7 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> November :sparkles: </h2></summary>
   
-- [KubeCon + CloudNativeCon](https://www.cncf.io/events/)
+- [KubeCon + CloudNativeCon North America](https://www.cncf.io/events/)
    > Date: 10th - 13th November || Mode: In-person || Location: Atlanta, United States.
 
 </details>
@@ -223,8 +274,11 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> December :sparkles: </h2></summary>
 
-  - [Open source summit Japan](https://events.linuxfoundation.org/open-source-summit-japan-2025/)
-     > Date: 8th - 10th December || Mode: In-person || Location: Tokyo, Japan.
+- [Open Source Generative AI & ML Summit](https://events.linuxfoundation.org/ai-dev-japan-2025/)
+  > Date: 8th - 10th December || Mode: In-person || Location: Tokyo, Japan.
+
+- [Open source summit Japan](https://events.linuxfoundation.org/open-source-summit-japan-2025/)
+  > Date: 8th - 10th December || Mode: In-person || Location: Tokyo, Japan.
 
 </details>
 
