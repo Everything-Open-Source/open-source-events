@@ -203,8 +203,14 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [Github Universe](https://githubuniverse.com/)
    > Date: 28th - 29th October || Mode: In-person || Location: not announced yet
 
-</details>
+- [PyTorch Conference 2025](https://events.linuxfoundation.org/pytorch-conference-2025/)
+  > Date: 22nd - 23rd || Mode: In-person || Location: San Francisco, California
 
+
+- [JSConf](https://events.linuxfoundation.org/jsconf-north-america/)
+  > Date: 14th - 16th || Mode: In-person || Location: MAryland, United States
+
+</details>
 
 
 
@@ -215,9 +221,6 @@ If you are interested in contributing to this project, kindly read the [contribu
    > Date: 10th - 13th November || Mode: In-person || Location: Atlanta, United States.
 
 </details>
-
-
-
 
 
 <details open>
