@@ -85,6 +85,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 - [FOSS Backstage](https://25.foss-backstage.de/)
    > Date: 10th - 11th March || Mode: In-person || Location: Berlin, Germany.
+   
+- [KHIPU - Latin American Meeting in Artificial Intelligence](https://khipu.ai/)
+   > Date: 10th - 14th March || Mode: In-person || Location:Santiago de Chile, Chile.   
 
 - [FOSS Backstage Design](https://25.foss-backstage.de/)
    > Date: 12th March || Mode: In-Person || Location: Berlin, Germany.
@@ -226,6 +229,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 - [FOSSY 25](https://2025.fossy.us/)
    > Date: 31st July - 3rd August || Mode: In-person || Location: Portland, Oregon, USA.
+   
+- [PyCon Latam](https://2025.pylatam.org/#)
+   > Date: not announced yet || Mode: In-person || Location: Costa Rica. 
 
 </details>
 
@@ -253,6 +259,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 - [Github Universe](https://githubuniverse.com/)
    > Date: 28th - 29th October || Mode: In-person || Location: not announced yet
+   
+- [LatinR - Latinamerican Conference About the Use of R in R&D](https://latinr.org/en/)
+   > Date: not announced yet || Mode: In-person || Location: not announced yet
 
 </details>
 
