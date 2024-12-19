@@ -241,6 +241,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> September :sparkles: </h2></summary>
 
+ - [Posit::conf 2025](https://posit.co/conference/)
+   > Date 16 - 18 September || Mode: Hybrid || Location: Atlanta, USA
+
 - [FlutterCon](https://fluttercon.dev)
    > Date: 24th - 26th September || Mode: In-person || Location: Berlin, Germany.
 
