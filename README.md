@@ -118,6 +118,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [PyCon Austria](https://pycon.pyug.at/en/)
    > Date: 6th - 7th April || Mode: In-person || Location: Eisenstadt, Austria.
 
+ - [ShinyConf2025: A global virtual conference focused on Shiny and data-driven applications](https://www.shinyconf.com/) 
+   > Date: 9th - 11th April || Mode: Virtual 
+
  - [PyTexas Conference](https://www.pytexas.org/2025/)
    > Date: 11th - 13th April || Mode: In-person || Location: Austin, Texas - USA.
 
