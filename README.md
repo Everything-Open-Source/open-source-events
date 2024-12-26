@@ -227,6 +227,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 - [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/)
    > Date: 6th - 7th August|| Mode: In-person || Location: Hyderabad, India.
 
+- [useR! 2025 Conference](https://www.r-project.org/conferences/)
+   > Date: 8th - 10th August|| Mode: In-person || Location: Duke University & Duke Center for Computational Thinking, Durham USA.
+
 - [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
    > Date: 25th - 27th August || Mode: In-person || Location: Amsterdam, Netherlands.
 
