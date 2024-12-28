@@ -52,6 +52,9 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [Python Barcamp Karlsruhe](https://barcamps.eu/python-barcamp-karlsruhe-2025/)
    > Date: 20th - 22nd February || Mode: In-person || Location: Karlsruhe, Germany.
 
+ - [International Hackathon](https://os-sci.com/event/international-hackathon-14/register)
+   > Date: 21th - 22nd February || Mode: Hybrid || Location: Worldwide, Worldwide.
+
  - [WordCamp Asia](https://asia.wordcamp.org/2025)
    > Date: 20th - 22nd February || Mode: In-person || Location: Manila, Philippines.
 
