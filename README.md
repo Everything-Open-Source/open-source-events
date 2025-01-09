@@ -47,7 +47,7 @@ If you are interested in contributing to this project, kindly read the [contribu
    > Date: 3rd - 4th February || Mode: In-person || Location: Amsterdam, Netherlands.
 
  - [SOOCON - State of Open Conference](https://stateofopencon.com/)
-   > Date: 15th - 16th February || Mode: In-person || Location: London, United Kingdom.
+   > Date: 4th - 5th February || Mode: In-person || Location: London, United Kingdom.
 
  - [Python Barcamp Karlsruhe](https://barcamps.eu/python-barcamp-karlsruhe-2025/)
    > Date: 20th - 22nd February || Mode: In-person || Location: Karlsruhe, Germany.
@@ -97,6 +97,9 @@ If you are interested in contributing to this project, kindly read the [contribu
   
 - [FOSSASIA Summit](https://summit.fossasia.org)
    > Date: 13th - 15th March || Mode: In-person || Location: Bangkok, Thailand.
+
+- [Nvidia GTC](https://www.nvidia.com/gtc/?ncid=pa-srch-goog-554238-prsp&_bt=722935569549&_bk=tech%20conference%202025&_bm=b&_bn=g&_bg=170630106386&gad_source=1&gclid=CjwKCAiAhP67BhAVEiwA2E_9g7HIz93J9Yy7N5hqfX3SE1mm8iMbWJ6bb0JT30t4ti36uHtFJNjM8xoCTEgQAvD_BwE)
+   > Date: 17th - 21st March || Mode: In-person || Location: San Jose, California - USA.
 
 - [Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/)
    > Date: 18th - 20th March || Mode: In-person || Location: Napa, California - USA.
