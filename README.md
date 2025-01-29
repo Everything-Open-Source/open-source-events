@@ -145,7 +145,7 @@ If you are interested in contributing to this project, kindly read the [contribu
  - [StackConf](https://stackconf.eu/)
    > Date: 26th - 30th April || Mode: In-person || Location: Munich, Germany.
 
- - [Open SearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/)
+ - [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/)
    > Date: 30th April - 1 May 2025 || Mode: In-person || Location: Amsterdam, Netherlands.
 
 </details>
@@ -175,6 +175,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
  - [Berlin, PHP Conference](https://phpconference.com/berlin-en/)
    > Date:June 2 – 6, 2025 || Mode: In-person or Online  || Location: Berlin,Germany
+
+ - [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/)
+   > Date: 3rd - 4th June 2025 || Mode: In-person || Location: Bengaluru, India.
   
  - [KubeCon + CloudNativeCon China](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/)
    > Date: 10th - 11th June || Mode: In-person || Location: Hong Kong, China
