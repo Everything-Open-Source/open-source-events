@@ -85,6 +85,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 - [Umbraco Spark](https://umbracospark.com/)
    > Date: 7th March || Mode: In-person || Location: Bristol, United Kingdom.
+  
+- [Apertre 2.0 - A 30-days-long Open Source Event by Resourcio Community](https://s2apertre.resourcio.in/)
+   > Date: 7th March to 5th April || Mode: Online + In-person offline meetup || Location: Kolkata, India
 
 - [FOSS Backstage](https://25.foss-backstage.de/)
    > Date: 10th - 11th March || Mode: In-person || Location: Berlin, Germany.
