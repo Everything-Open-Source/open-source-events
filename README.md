@@ -259,6 +259,9 @@ If you are interested in contributing to this project, kindly read the [contribu
 <details open>
  <summary><h2> September :sparkles: </h2></summary>
 
+ - [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/)
+   > Date: 8 - 10 September || Mode: In-person || Location: San Jose, CA USA
+
  - [Posit::conf 2025](https://posit.co/conference/)
    > Date 16 - 18 September || Mode: Hybrid || Location: Atlanta, USA
 
