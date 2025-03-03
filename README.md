@@ -17,7 +17,7 @@ If you are interested in contributing to this project, kindly read the [contribu
 
 <details>
 <summary>
-<h2> Subscribe to Calendar </h2>
+<h2> 📆 Subscribe to the Calendar </h2>
 
 Stay updated with all these open source events by subscribing to our calendar:
 
@@ -27,18 +27,18 @@ Stay updated with all these open source events by subscribing to our calendar:
 
 ### How to Subscribe:
 
-- **Google Calendar**:
+- **📌 Google Calendar**:
 
   1. Click the "+" next to "Other calendars"
   2. Select "From URL"
   3. Paste the calendar URL and click "Add calendar"
 
-- **Apple Calendar**:
+- **📌 Apple Calendar**:
 
   1. Go to File > New Calendar Subscription
   2. Paste the calendar URL or use: [webcal://jonamarkin.github.io/ose-calendar/events.ics](webcal://jonamarkin.github.io/ose-calendar/events.ics)
 
-- **Outlook**:
+- **📌 Outlook**:
   1. Go to Calendar view > Add Calendar > Subscribe from web
   2. Paste the calendar URL
 
