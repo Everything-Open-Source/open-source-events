@@ -36,7 +36,7 @@ Stay updated with all these open source events by subscribing to our calendar:
 - **Apple Calendar**:
 
   1. Go to File > New Calendar Subscription
-  2. Paste the calendar URL or use: `webcal://jonamarkin.github.io/ose-calendar/events.ics`
+  2. Paste the calendar URL or use: [webcal://jonamarkin.github.io/ose-calendar/events.ics](webcal://jonamarkin.github.io/ose-calendar/events.ics)
 
 - **Outlook**:
   1. Go to Calendar view > Add Calendar > Subscribe from web
