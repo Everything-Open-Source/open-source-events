@@ -15,13 +15,13 @@ How can you make the best out of these events or conferences?
 
 If you are interested in contributing to this project, kindly read the [contribution guideline](https://github.com/Everything-Open-Source/open-source-events/blob/main/contributing.md).
 
-<details open>
+<details>
 <summary>
 <h2> Subscribe to Calendar </h2>
 
 Stay updated with all these open source events by subscribing to our calendar:
 
-**ICS Calendar Link**: [https://jonamarkin.github.io/ose-calendar/events.ics](https://jonamarkin.github.io/ose-calendar/events.ics)
+**ICS Calendar**: [https://jonamarkin.github.io/ose-calendar/events.ics](https://jonamarkin.github.io/ose-calendar/events.ics)
 
 </summary>
 
@@ -46,7 +46,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 </details>
 
-<details>
+<details open>
  <summary><h2> January :sparkles: </h2></summary>
 
 - [Try! Swift x AI Singapore](https://www.tryswift.co/world/)
