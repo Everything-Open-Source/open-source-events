@@ -46,7 +46,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 </details>
 
-<details open>
+<details>
  <summary><h2> January :sparkles: </h2></summary>
 
 - [Try! Swift x AI Singapore](https://www.tryswift.co/world/)
