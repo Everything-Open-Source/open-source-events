@@ -312,12 +312,13 @@ The calendar is automatically updated daily, ensuring you always have the latest
  <summary><h2> September :sparkles: </h2></summary>
 
 - [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/)
-
-  > Date: 8 - 10 September || Mode: In-person || Location: San Jose, CA USA
+  > Date: 8th - 10th September || Mode: In-person || Location: San Jose, CA USA
 
 - [Posit::conf 2025](https://posit.co/conference/)
+  > Date: 16th - 18th September || Mode: Hybrid || Location: Atlanta, USA
 
-  > Date 16 - 18 September || Mode: Hybrid || Location: Atlanta, USA
+- [PyCon UK](https://2025.pyconuk.org/)
+  > Date: 19th - 22nd September || Mode: In-person || Location: Manchester, United Kingdom.
 
 - [FlutterCon](https://fluttercon.dev)
   > Date: 24th - 26th September || Mode: In-person || Location: Berlin, Germany.
