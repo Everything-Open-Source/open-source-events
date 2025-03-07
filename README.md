@@ -118,37 +118,33 @@ The calendar is automatically updated daily, ensuring you always have the latest
  <summary><h2> March :sparkles: </h2></summary>
 
 - [SOSS Policy Summit - Open Source Security Foundation](https://events.linuxfoundation.org/soss-policy-summit-dc/)
-
   > Date: 4th March || Mode: In-person || Location: Washington, DC - USA.
 
 - [SCALE22x](https://www.socallinuxexpo.org/scale/22x)
-
   > Date: 6th - 9th March || Mode: In-person || Location: Pasadena, California - USA.
 
 - [Umbraco Spark](https://umbracospark.com/)
   > Date: 7th March || Mode: In-person || Location: Bristol, United Kingdom.
+  
 - [Apertre 2.0 - A 30-days-long Open Source Event by Resourcio Community](https://s2apertre.resourcio.in/)
-
   > Date: 7th March to 5th April || Mode: Online + In-person offline meetup || Location: Kolkata, India
 
 - [FOSS Backstage](https://25.foss-backstage.de/)
   > Date: 10th - 11th March || Mode: In-person || Location: Berlin, Germany.
+  
 - [KHIPU - Latin American Meeting in Artificial Intelligence](https://khipu.ai/)
-
   > Date: 10th - 14th March || Mode: In-person || Location:Santiago de Chile, Chile.
 
 - [FOSS Backstage Design](https://25.foss-backstage.de/)
   > Date: 12th March || Mode: In-Person || Location: Berlin, Germany.
+  
 - [FOSSASIA Summit](https://summit.fossasia.org)
-
   > Date: 13th - 15th March || Mode: In-person || Location: Bangkok, Thailand.
 
 - [Nvidia GTC](https://www.nvidia.com/gtc/?ncid=pa-srch-goog-554238-prsp&_bt=722935569549&_bk=tech%20conference%202025&_bm=b&_bn=g&_bg=170630106386&gad_source=1&gclid=CjwKCAiAhP67BhAVEiwA2E_9g7HIz93J9Yy7N5hqfX3SE1mm8iMbWJ6bb0JT30t4ti36uHtFJNjM8xoCTEgQAvD_BwE)
-
   > Date: 17th - 21st March || Mode: In-person || Location: San Jose, California - USA.
 
 - [Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/)
-
   > Date: 18th - 20th March || Mode: In-person || Location: Napa, California - USA.
 
 - [Open Source Day](https://osday.dev/)
@@ -160,43 +156,33 @@ The calendar is automatically updated daily, ensuring you always have the latest
  <summary><h2> April :sparkles: </h2></summary>
 
 - [ArgoCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/)
-
   > Date: 1st April || Mode: In-person || Location: London, England.
 
 - [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-
   > Date: 1st - 4th April || Mode: In-person || Location: London, England.
 
 - [PyCon Austria](https://pycon.pyug.at/en/)
-
   > Date: 6th - 7th April || Mode: In-person || Location: Eisenstadt, Austria.
 
 - [ShinyConf2025: A global virtual conference focused on Shiny and data-driven applications](https://www.shinyconf.com/)
-
   > Date: 9th - 11th April || Mode: Virtual
 
 - [PyTexas Conference](https://www.pytexas.org/2025/)
-
   > Date: 11th - 13th April || Mode: In-person || Location: Austin, Texas - USA.
 
 - [FOSS North](https://foss-north.se/2025/)
-
   > Date: 14th - 15th April || Mode: In-person || Location: Gothenburg, Sweden.
 
 - [PyCon DE & PyData 2025](https://2025.pycon.de/)
-
   > Date: 23rd - 25th April || Mode: In-person || Location: Frankfurt, Germany.
 
 - [Django Girls Ho](https://djangogirls.org/en/ho/)
-
   > Date: 25th - 26th April || Mode: In-person || Location: Ho, Ghana.
 
 - [FLISoL](https://flisol.info/en)
-
   > Date: 26th April || Mode: Hybrid || Location: Simultaneously 200+ latinamerican cities, LATAM.
 
 - [StackConf](https://stackconf.eu/)
-
   > Date: 26th - 30th April || Mode: In-person || Location: Munich, Germany.
 
 - [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/)
@@ -207,12 +193,13 @@ The calendar is automatically updated daily, ensuring you always have the latest
 <details open>
  <summary><h2> May :sparkles: </h2></summary>
 
-- [PyCon US](https://us.pycon.org/2025/)
+- [PostgreSQL Conference](https://www.postgresql.eu/events/pgconfde2025/news/pgconfde-2025-registration-is-open-158/)
+  > Date: 8th - 9th May || Mode: In-person || Location: Berlin, Germany.
 
+- [PyCon US](https://us.pycon.org/2025/)
   > Date: 14th - 22nd May || Mode: In-person || Location: Pittsburgh, Pennsylvania - USA.
 
 - [Red Hat Summit](https://www.redhat.com/en/summit)
-
   > Date: 19th - 22nd May || Mode: In-person || Location: Boston, Massachusetts - USA.
 
 - [PyCon Italia](https://2025.pycon.it/en)
@@ -224,31 +211,24 @@ The calendar is automatically updated daily, ensuring you always have the latest
  <summary><h2> June :sparkles: </h2></summary>
 
 - [Berlin, PHP Conference](https://phpconference.com/berlin-en/)
-
   > Date:June 2 – 6, 2025 || Mode: In-person or Online || Location: Berlin,Germany
 
 - [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/)
-
   > Date: 3rd - 4th June 2025 || Mode: In-person || Location: Bengaluru, India.
 
 - [KubeCon + CloudNativeCon China](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/)
-
   > Date: 10th - 11th June || Mode: In-person || Location: Hong Kong, China
 
 - [POSETTE, An Event for Postgres](https://posetteconf.com/2025/)
-
   > Date: 10th - 12th June || Mode: Virtual || Location: Online
 
 - [Berlin Buzzwords](https://2025.berlinbuzzwords.de/)
-
   > Date: 15th - 17th June || Mode: In-person || Location: Berlin, Germany.
 
 - [KubeCon + CloudNativeCon Japan](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)
-
   > Date: 16th - 17th June || Mode: In-person || Location: Tokyo, Japan.
 
 - [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/)
-
   > Date: 23rd - 25th June || Mode: In-person || Location: Denver, Colorado - USA.
 
 - [PyCamp Leipzig](https://lpug.github.io/)
@@ -261,24 +241,20 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 - [Open EDX](https://con.openedx.org/)
   > Date: 1st - 4th July || Mode: In-person || Location: Paris, France.
-- [Foss4g](https://2025.europe.foss4g.org/)
 
+- [Foss4g](https://2025.europe.foss4g.org/)
   > Date: 14th - 20th July || Mode: In-person || Location: Mostar, Bosnia.
 
 - [OpenEdX](https://con.openedx.org/)
-
   > Date: 1st - 4th July|| Mode: In-person || Location: Télécom Paris, France.
 
 - [Debcon25](https://debconf25.debconf.org/)
-
   > Date: 14th - 20th July || Mode: In-person || Location: Brest, France.
 
 - [Open Sauce](https://opensauce.com/)
-
   > Date: 18th - 20th July || Mode: In-person || Location: San Francisco Bay Area, California - USA.
 
 - [JuliaCon](https://juliacon.org/2025/)
-
   > Date: 21st - 26th July || Mode: In-person || Location: Pittsburgh, PA.
 
 - [GUADEC](https://events.gnome.org/event/259/)
@@ -290,19 +266,17 @@ The calendar is automatically updated daily, ensuring you always have the latest
  <summary><h2> August :sparkles: </h2></summary>
 
 - [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/)
-
   > Date: 6th - 7th August|| Mode: In-person || Location: Hyderabad, India.
 
 - [useR! 2025 Conference](https://www.r-project.org/conferences/)
-
   > Date: 8th - 10th August|| Mode: In-person || Location: Duke University & Duke Center for Computational Thinking, Durham USA.
 
 - [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
-
   > Date: 25th - 27th August || Mode: In-person || Location: Amsterdam, Netherlands.
 
 - [FOSSY 25](https://2025.fossy.us/)
   > Date: 31st July - 3rd August || Mode: In-person || Location: Portland, Oregon, USA.
+
 - [PyCon Latam](https://2025.pylatam.org/#)
   > Date: not announced yet || Mode: In-person || Location: Costa Rica.
 
@@ -329,15 +303,14 @@ The calendar is automatically updated daily, ensuring you always have the latest
  <summary><h2> October :sparkles: </h2></summary>
 
 - [PyCon Estonia](https://pycon.ee/)
-
   > Date: 2nd - 3rd October || Mode: In-person || Location: Tallinn, Estonia.
 
 - [All Things Open](https://2025.allthingsopen.org/)
-
   > Date: 12th - 14th October || Mode: In-person || Location: Raleigh, NC USA.
 
 - [Github Universe](https://githubuniverse.com/)
   > Date: 28th - 29th October || Mode: In-person || Location: not announced yet
+
 - [LatinR - Latinamerican Conference About the Use of R in R&D](https://latinr.org/en/)
   > Date: not announced yet || Mode: In-person || Location: not announced yet
 
@@ -355,7 +328,6 @@ The calendar is automatically updated daily, ensuring you always have the latest
  <summary><h2> December :sparkles: </h2></summary>
 
 - [Open Source Generative AI & ML Summit](https://events.linuxfoundation.org/ai-dev-japan-2025/)
-
   > Date: 8th - 10th December || Mode: In-person || Location: Tokyo, Japan.
 
 - [Open source summit Japan](https://events.linuxfoundation.org/open-source-summit-japan-2025/)
