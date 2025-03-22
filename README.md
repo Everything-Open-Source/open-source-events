@@ -231,6 +231,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/)
   > Date: 23rd - 25th June || Mode: In-person || Location: Denver, Colorado - USA.
 
+- [Galaxy and Bioconductor Community Conference](https://gbcc2025.org/)
+  > Date: 23rd - 26th June || Mode: In-person || Location: Cold Spring Harbor Laboratory (CSHL), New York - USA.
+
 - [PyCamp Leipzig](https://lpug.github.io/)
   > Date: 28th - 29th June || Mode: In-person || Location: Leipzig, Germany
 
