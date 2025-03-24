@@ -268,6 +268,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 <details open>
  <summary><h2> August :sparkles: </h2></summary>
 
+- [FOSSY 25](https://2025.fossy.us/)
+  > Date: 31st July - 3rd August || Mode: In-person || Location: Portland, Oregon, USA.
+  
 - [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/)
   > Date: 6th - 7th August|| Mode: In-person || Location: Hyderabad, India.
 
@@ -277,8 +280,8 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
   > Date: 25th - 27th August || Mode: In-person || Location: Amsterdam, Netherlands.
 
-- [FOSSY 25](https://2025.fossy.us/)
-  > Date: 31st July - 3rd August || Mode: In-person || Location: Portland, Oregon, USA.
+- [PyCon Greece](https://2025.pycon.gr/en/)
+  > Date: 29th - 30th || Mode: In-person || Location: Athens, Greece.
 
 - [PyCon Latam](https://2025.pylatam.org/#)
   > Date: not announced yet || Mode: In-person || Location: Costa Rica.
