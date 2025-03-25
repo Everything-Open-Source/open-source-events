@@ -297,6 +297,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/)
   > Date: 8th - 10th September || Mode: In-person || Location: San Jose, CA USA
 
+- [csv,conf,v9](https://csvconf.com/)
+  > Date: 10th - 11th September || Mode: In-person || Location: Bologna, Italy
+
 - [Posit::conf 2025](https://posit.co/conference/)
   > Date: 16th - 18th September || Mode: Hybrid || Location: Atlanta, USA
 
