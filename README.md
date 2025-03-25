@@ -263,6 +263,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [GUADEC](https://events.gnome.org/event/259/)
   > Date: 24th - 29th July || Mode: In-person || Location: Brescia, Italy.
 
+- [EUROPYTHON PRAGUE & REMOTE](https://ep2025.europython.eu/)
+  > Date: 14th - 20th July  || Mode: In person , Remote || Location: Prague , Czech Republic.
+
 </details>
 
 <details open>
@@ -302,6 +305,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 
 - [FlutterCon](https://fluttercon.dev)
   > Date: 24th - 26th September || Mode: In-person || Location: Berlin, Germany.
+
+- [DjangoCon US 2025](https://2025.djangocon.us/)
+  > Date: 8th - 12th September  || Mode: In Person || Location: Chicago, Illinois - USA.
 
 </details>
 
