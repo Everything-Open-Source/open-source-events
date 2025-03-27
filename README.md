@@ -316,6 +316,9 @@ in Cleveland, Ohio.
 - [DjangoCon US 2025](https://2025.djangocon.us/)
   > Date: 8th - 12th September  || Mode: In Person || Location: Chicago, Illinois - USA.
 
+- [PyCon Taiwan](https://tw.pycon.org/2025/en-us)
+  > Date: 5th - 7th September  || Mode: In Person || Location: National Science and Technology Museum (South Complex), Sanmin District, Kaohsiung City, Taiwan.
+
 </details>
 
 <details open>
