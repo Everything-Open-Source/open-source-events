@@ -293,6 +293,9 @@ in Cleveland, Ohio.
 - [PyCon Latam](https://2025.pylatam.org/#)
   > Date: not announced yet || Mode: In-person || Location: Costa Rica.
 
+- [COSCUP (Conference for Open Source Coders, Users, and Promoters)](https://coscup.org/2025/)
+  > Date:   9th - 10th August || Mode: In-person || Location: National Taiwan University of Science and Technology in Taipei, Taiwan
+
 </details>
 
 <details open>
