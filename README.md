@@ -266,6 +266,10 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [EUROPYTHON PRAGUE & REMOTE](https://ep2025.europython.eu/)
   > Date: 14th - 20th July  || Mode: In person , Remote || Location: Prague , Czech Republic.
 
+- [PyOhio](https://www.pyohio.org/2025/)
+  > Date: 26th - 27th July  || Mode: In person || Location: Cleveland State University Student Center
+in Cleveland, Ohio.
+
 </details>
 
 <details open>
