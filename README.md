@@ -287,6 +287,9 @@ in Cleveland, Ohio.
 - [useR! 2025 Conference](https://www.r-project.org/conferences/)
   > Date: 8th - 10th August|| Mode: In-person || Location: Duke University & Duke Center for Computational Thinking, Durham USA.
 
+- [OSCAFEST - Open Source Festival](https://festival.oscafrica.org/)
+  > Date: 14th - 16th August || Mode: In-person || Location: Lagos, Nigeria.
+
 - [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
   > Date: 25th - 27th August || Mode: In-person || Location: Amsterdam, Netherlands.
 
