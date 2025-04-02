@@ -228,6 +228,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [KubeCon + CloudNativeCon Japan](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)
   > Date: 16th - 17th June || Mode: In-person || Location: Tokyo, Japan.
 
+- [UN Open Source Week 2025](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025)
+  > Date: 16th - 20th June || Mode: In-person || Location: United Nations Headquarters, New York - USA.
+
 - [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/)
   > Date: 23rd - 25th June || Mode: In-person || Location: Denver, Colorado - USA.
 
@@ -349,6 +352,9 @@ in Cleveland, Ohio.
   
 - [KubeCon + CloudNativeCon North America](https://www.cncf.io/events/)
    > Date: 10th - 13th November || Mode: In-person || Location: Atlanta, United States.
+
+- [Open Forum Academy](https://symposium.openforumeurope.org/)
+   > Date: 18th - 19th November || Mode: In-person || Location: Rio de Janeiro, Brazil.
 
 </details>
 
